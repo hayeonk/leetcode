@@ -12,3 +12,7 @@ E: Easy, M: Medium, H: Hard
     86. Partition List (M)
     2. Add Two Numbers (M)
     445. Add Two Numbers II (M)
+    234. Palindrome Linked List (E)
+    160. Intersection of Two Linked Lists (E)
+    141. Linked List Cycle (E)
+    142. Linked List Cycle II (M)
