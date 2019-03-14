@@ -11,6 +11,13 @@ E: Easy, M: Medium, H: Hard
     26. Remove Duplicates from Sorted Array (E)
     27. Remove Element (E)
     31. Next Permutation (M) *
+    33. Search in Rotated Sorted Array (M) *
+    34. Find First and Last Position of Element in Sorted Array (M)
+    35. Search Insert Position (E)
+    39. Combination Sum (M)
+    40. Combination Sum II (M) *
+    11. Container With Most Water (M) *
+    53. Maximum Subarray (E)
 
 ## Linked List
     19. Remove Nth Node From End of List (M)
