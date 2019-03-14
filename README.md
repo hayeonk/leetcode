@@ -7,7 +7,7 @@ E: Easy, M: Medium, H: Hard
     73. Set Matrix Zeroes (M)
 
 ## Linked List
-    19. Remove Nth Node From End of List (M) *
+    19. Remove Nth Node From End of List (M)
     237. Delete Node in a Linked List (E)
     86. Partition List (M)
     2. Add Two Numbers (M)
@@ -28,8 +28,11 @@ E: Easy, M: Medium, H: Hard
     110. Balanced Binary Tree (E)
     98. Validate Binary Search Tree (M)
     207. Course Schedule (M)
-    210. Course Schedule II (M)
+    210. Course Schedule II (M) *
     235. Lowest Common Ancestor of a Binary Search Tree (E)
+    236. Lowest Common Ancestor of a Binary Tree (M) *
     572. Subtree of Another Tree (E)
     112. Path Sum (E)
     113. Path Sum II (M)
+    437. Path Sum III (E) *
+    
