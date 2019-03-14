@@ -5,6 +5,12 @@ E: Easy, M: Medium, H: Hard
     217. Contains Duplicate (E)
     48. Rotate Image (M)
     73. Set Matrix Zeroes (M)
+    1. Two Sum (E)
+    167. Two Sum II - Input array is sorted (E)
+    653. Two Sum IV - Input is a BST (E)
+    26. Remove Duplicates from Sorted Array (E)
+    27. Remove Element (E)
+    31. Next Permutation (M) *
 
 ## Linked List
     19. Remove Nth Node From End of List (M)
