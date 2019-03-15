@@ -48,4 +48,6 @@ E: Easy, M: Medium, H: Hard
     112. Path Sum (E)
     113. Path Sum II (M)
     437. Path Sum III (E) *
+    94. Binary Tree Inorder Traversal (M) *
+    144. Binary Tree Preorder Traversal (M) *
     
