@@ -1,7 +1,7 @@
 # leetcode
 E: Easy, M: Medium, H: Hard
 
-## Array
+## Array and String
     217. Contains Duplicate (E)
     48. Rotate Image (M)
     73. Set Matrix Zeroes (M)
@@ -18,6 +18,11 @@ E: Easy, M: Medium, H: Hard
     40. Combination Sum II (M) *
     11. Container With Most Water (M) *
     53. Maximum Subarray (E)
+    46. Permutations (M)
+    47. Permutations II (M) *
+    56. Merge Intervals (M)
+    58. Length of Last Word (E)
+    60. Permutation Sequence (M)
 
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -29,6 +34,9 @@ E: Easy, M: Medium, H: Hard
     160. Intersection of Two Linked Lists (E)
     141. Linked List Cycle (E)
     142. Linked List Cycle II (M)
+    24. Swap Nodes in Pairs (M)
+    21. Merge Two Sorted Lists (E)
+    61. Rotate List (M)
 
 ## Stack and Queue
     155. Min Stack (E)
@@ -50,4 +58,7 @@ E: Easy, M: Medium, H: Hard
     437. Path Sum III (E) *
     94. Binary Tree Inorder Traversal (M) *
     144. Binary Tree Preorder Traversal (M) *
-    
+    100. Same Tree (E)
+    101. Symmetric Tree (E)
+    96. Unique Binary Search Trees (M)
+    95. Unique Binary Search Trees II (M)
