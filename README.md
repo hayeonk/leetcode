@@ -23,6 +23,14 @@ E: Easy, M: Medium, H: Hard
     56. Merge Intervals (M)
     58. Length of Last Word (E)
     60. Permutation Sequence (M)
+    62. Unique Paths (M)
+    63. Unique Paths II (M)
+    64. Minimum Path Sum (M)
+    74. Search a 2D Matrix (M)
+    77. Combinations (M)
+    78. Subsets (M)
+    90. Subsets II (M) *
+    75. Sort Colors (M)
 
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -37,7 +45,9 @@ E: Easy, M: Medium, H: Hard
     24. Swap Nodes in Pairs (M)
     21. Merge Two Sorted Lists (E)
     61. Rotate List (M)
-
+    206. Reverse Linked List (E) *
+    92. Reverse Linked List II (M)
+    
 ## Stack and Queue
     155. Min Stack (E)
     232. Implement Queue using Stacks (E)
