@@ -31,7 +31,13 @@ E: Easy, M: Medium, H: Hard
     78. Subsets (M)
     90. Subsets II (M) *
     75. Sort Colors (M)
-
+	55. Jump Game (M)
+	45. Jump Game II (H)
+	169. Majority Element (E) *
+	70. Climbing Stairs (E)
+	746. Min Cost Climbing Stairs (E)
+	5. Longest Palindromic Substring (M) *
+	
 ## Linked List
     19. Remove Nth Node From End of List (M)
     237. Delete Node in a Linked List (E)
@@ -47,7 +53,7 @@ E: Easy, M: Medium, H: Hard
     61. Rotate List (M)
     206. Reverse Linked List (E) *
     92. Reverse Linked List II (M)
-    
+	
 ## Stack and Queue
     155. Min Stack (E)
     232. Implement Queue using Stacks (E)
@@ -72,3 +78,18 @@ E: Easy, M: Medium, H: Hard
     101. Symmetric Tree (E)
     96. Unique Binary Search Trees (M)
     95. Unique Binary Search Trees II (M)
+	
+## Math and Bit Manipulation
+	136. Single Number (E)
+	191. Number of 1 Bits (E) *
+	389. Find the Difference (E)
+	231. Power of Two (E)
+	268. Missing Number (E) *
+	693. Binary Number with Alternating Bits (E)
+	461. Hamming Distance (E)
+	137. Single Number II (M) *
+	260. Single Number III (M) **
+	190. Reverse Bits (E)
+	67. Add Binary (E)
+	
+## Dynamic Programming
