@@ -17,15 +17,11 @@ E: Easy, M: Medium, H: Hard
     39. Combination Sum (M)
     40. Combination Sum II (M) *
     11. Container With Most Water (M) *
-    53. Maximum Subarray (E)
     46. Permutations (M)
     47. Permutations II (M) *
     56. Merge Intervals (M)
     58. Length of Last Word (E)
     60. Permutation Sequence (M)
-    62. Unique Paths (M)
-    63. Unique Paths II (M)
-    64. Minimum Path Sum (M)
     74. Search a 2D Matrix (M)
     77. Combinations (M)
     78. Subsets (M)
@@ -34,9 +30,14 @@ E: Easy, M: Medium, H: Hard
 	55. Jump Game (M)
 	45. Jump Game II (H)
 	169. Majority Element (E) *
-	70. Climbing Stairs (E)
-	746. Min Cost Climbing Stairs (E)
-	5. Longest Palindromic Substring (M) *
+	17. Letter Combinations of a Phone Number (M)
+	14. Longest Common Prefix (E)
+	12. Integer to Roman (M)
+	15. 3Sum (M) *
+	16. 3Sum Closest (M)
+	18. 4Sum (M)
+	28. Implement strStr() (E) -> string 공부하면서 다시 풀기
+	674. Longest Continuous Increasing Subsequence (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -57,6 +58,7 @@ E: Easy, M: Medium, H: Hard
 ## Stack and Queue
     155. Min Stack (E)
     232. Implement Queue using Stacks (E)
+	20. Valid Parentheses (E)
     
 ## Tree and Graph
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -91,5 +93,20 @@ E: Easy, M: Medium, H: Hard
 	260. Single Number III (M) **
 	190. Reverse Bits (E)
 	67. Add Binary (E)
+	29. Divide Two Integers (M) *
 	
 ## Dynamic Programming
+	53. Maximum Subarray (E)
+	62. Unique Paths (M)
+    63. Unique Paths II (M)
+    64. Minimum Path Sum (M)
+    70. Climbing Stairs (E)
+	746. Min Cost Climbing Stairs (E)
+	5. Longest Palindromic Substring (M) *
+	22. Generate Parentheses (M)
+	322. Coin Change (M)
+	51. N-Queens (H)
+	52. N-Queens II (H)
+	
+## DFS and BFS
+	733. Flood Fill (E)
