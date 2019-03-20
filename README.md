@@ -38,6 +38,10 @@ E: Easy, M: Medium, H: Hard
 	18. 4Sum (M)
 	28. Implement strStr() (E) -> string 공부하면서 다시 풀기
 	674. Longest Continuous Increasing Subsequence (E)
+	80. Remove Duplicates from Sorted Array II (M)
+	81. Search in Rotated Sorted Array II (M) *
+	89. Gray Code (M)
+	118. Pascal's Triangle (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -74,12 +78,14 @@ E: Easy, M: Medium, H: Hard
     112. Path Sum (E)
     113. Path Sum II (M)
     437. Path Sum III (E) *
-    94. Binary Tree Inorder Traversal (M) *
-    144. Binary Tree Preorder Traversal (M) *
+    94. Binary Tree Inorder Traversal (M) * (iterative)
+    144. Binary Tree Preorder Traversal (M) * (iterative)
     100. Same Tree (E)
     101. Symmetric Tree (E)
     96. Unique Binary Search Trees (M)
     95. Unique Binary Search Trees II (M)
+	116. Populating Next Right Pointers in Each Node (M) * (iterative)
+	117. Populating Next Right Pointers in Each Node II (M) * (iterative)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -105,8 +111,12 @@ E: Easy, M: Medium, H: Hard
 	5. Longest Palindromic Substring (M) *
 	22. Generate Parentheses (M)
 	322. Coin Change (M)
-	51. N-Queens (H)
+	51. N-Queens (H) *
 	52. N-Queens II (H)
+	300. Longest Increasing Subsequence (M)
+	91. Decode Ways (M) **
+	120. Triangle (M)
+	121. Best Time to Buy and Sell Stock (E)
 	
 ## DFS and BFS
 	733. Flood Fill (E)
