@@ -42,6 +42,13 @@ E: Easy, M: Medium, H: Hard
 	81. Search in Rotated Sorted Array II (M) *
 	89. Gray Code (M)
 	118. Pascal's Triangle (E)
+	349. Intersection of Two Arrays (E)
+	350. Intersection of Two Arrays II (E)
+	88. Merge Sorted Array (E)
+	242. Valid Anagram (E)
+	49. Group Anagrams (M)
+	704. Binary Search (E)
+	119. Pascal's Triangle II (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -86,6 +93,10 @@ E: Easy, M: Medium, H: Hard
     95. Unique Binary Search Trees II (M)
 	116. Populating Next Right Pointers in Each Node (M) * (iterative)
 	117. Populating Next Right Pointers in Each Node II (M) * (iterative)
+	701. Insert into a Binary Search Tree (M)
+	700. Search in a Binary Search Tree (E)
+	669. Trim a Binary Search Tree (E)
+	1008. Construct Binary Search Tree from Preorder Traversal (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -117,6 +128,8 @@ E: Easy, M: Medium, H: Hard
 	91. Decode Ways (M) **
 	120. Triangle (M)
 	121. Best Time to Buy and Sell Stock (E)
+	139. Word Break (M) *
+	152. Maximum Product Subarray (M) *
 	
 ## DFS and BFS
 	733. Flood Fill (E)
