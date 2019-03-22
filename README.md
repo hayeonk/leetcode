@@ -49,6 +49,12 @@ E: Easy, M: Medium, H: Hard
 	49. Group Anagrams (M)
 	704. Binary Search (E)
 	119. Pascal's Triangle II (E)
+	713. Subarray Product Less Than K (M)
+	438. Find All Anagrams in a String (E)
+	125. Valid Palindrome (E)
+	127. Word Ladder (M)
+	153. Find Minimum in Rotated Sorted Array (M)
+	273. Integer to English Words (H)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -70,6 +76,7 @@ E: Easy, M: Medium, H: Hard
     155. Min Stack (E)
     232. Implement Queue using Stacks (E)
 	20. Valid Parentheses (E)
+	921. Minimum Add to Make Parentheses Valid (M)
     
 ## Tree and Graph
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -97,6 +104,8 @@ E: Easy, M: Medium, H: Hard
 	700. Search in a Binary Search Tree (E)
 	669. Trim a Binary Search Tree (E)
 	1008. Construct Binary Search Tree from Preorder Traversal (M)
+	129. Sum Root to Leaf Numbers (M)
+	111. Minimum Depth of Binary Tree (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -111,6 +120,7 @@ E: Easy, M: Medium, H: Hard
 	190. Reverse Bits (E)
 	67. Add Binary (E)
 	29. Divide Two Integers (M) *
+	172. Factorial Trailing Zeroes (E)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
