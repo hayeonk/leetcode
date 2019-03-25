@@ -55,6 +55,11 @@ E: Easy, M: Medium, H: Hard
 	127. Word Ladder (M)
 	153. Find Minimum in Rotated Sorted Array (M)
 	273. Integer to English Words (H)
+	457. Circular Array Loop (M)
+	605. Can Place Flowers (E)
+	134. Gas Station (M) *
+	216. Combination Sum III (M)
+	697. Degree of an Array (E) *
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -121,6 +126,7 @@ E: Easy, M: Medium, H: Hard
 	67. Add Binary (E)
 	29. Divide Two Integers (M) *
 	172. Factorial Trailing Zeroes (E)
+	1006. Clumsy Factorial (M)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -140,6 +146,11 @@ E: Easy, M: Medium, H: Hard
 	121. Best Time to Buy and Sell Stock (E)
 	139. Word Break (M) *
 	152. Maximum Product Subarray (M) *
+	198. House Robber (E)
+	213. House Robber II (M) *
+	464. Can I Win (M)
+	518. Coin Change 2 (M) **
 	
 ## DFS and BFS
 	733. Flood Fill (E)
+	130. Surrounded Regions (M)
