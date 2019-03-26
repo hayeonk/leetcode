@@ -60,6 +60,15 @@ E: Easy, M: Medium, H: Hard
 	134. Gas Station (M) *
 	216. Combination Sum III (M)
 	697. Degree of an Array (E) *
+	525. Contiguous Array (M) *
+	220. Contains Duplicate III (M) *
+	122. Best Time to Buy and Sell Stock II (E) *
+	448. Find All Numbers Disappeared in an Array (E)
+	287. Find the Duplicate Number (M)
+	771. Jewels and Stones (E)
+	215. Kth Largest Element in an Array (M) *
+	3. Longest Substring Without Repeating Characters (M)
+	283. Move Zeroes (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -111,6 +120,14 @@ E: Easy, M: Medium, H: Hard
 	1008. Construct Binary Search Tree from Preorder Traversal (M)
 	129. Sum Root to Leaf Numbers (M)
 	111. Minimum Depth of Binary Tree (E)
+	105. Construct Binary Tree from Preorder and Inorder Traversal (M)
+	538. Convert BST to Greater Tree (E) *
+	543. Diameter of Binary Tree (E)
+	114. Flatten Binary Tree to Linked List (M)
+	337. House Robber III (M)
+	226. Invert Binary Tree (E)
+	104. Maximum Depth of Binary Tree (E)
+	617. Merge Two Binary Trees (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -127,6 +144,7 @@ E: Easy, M: Medium, H: Hard
 	29. Divide Two Integers (M) *
 	172. Factorial Trailing Zeroes (E)
 	1006. Clumsy Factorial (M)
+	338. Counting Bits (M)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -150,7 +168,15 @@ E: Easy, M: Medium, H: Hard
 	213. House Robber II (M) *
 	464. Can I Win (M)
 	518. Coin Change 2 (M) **
+	309. Best Time to Buy and Sell Stock with Cooldown (M) **
+	221. Maximal Square (M)
+	647. Palindromic Substrings (M)
+	416. Partition Equal Subset Sum (M)
 	
 ## DFS and BFS
 	733. Flood Fill (E)
 	130. Surrounded Regions (M)
+	200. Number of Islands (M)
+	
+## Design
+	208. Implement Trie (Prefix Tree) (M) *
