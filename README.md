@@ -69,6 +69,13 @@ E: Easy, M: Medium, H: Hard
 	215. Kth Largest Element in an Array (M) *
 	3. Longest Substring Without Repeating Characters (M)
 	283. Move Zeroes (E)
+	238. Product of Array Except Self (M)
+	406. Queue Reconstruction by Height (M)
+	240. Search a 2D Matrix II (M)
+	581. Shortest Unsorted Continuous Subarray (E)
+	560. Subarray Sum Equals K (M)
+	621. Task Scheduler (M) *
+	347. Top K Frequent Elements (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -85,6 +92,7 @@ E: Easy, M: Medium, H: Hard
     61. Rotate List (M)
     206. Reverse Linked List (E) *
     92. Reverse Linked List II (M)
+	148. Sort List (M)
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -172,11 +180,13 @@ E: Easy, M: Medium, H: Hard
 	221. Maximal Square (M)
 	647. Palindromic Substrings (M)
 	416. Partition Equal Subset Sum (M)
+	494. Target Sum (M)
 	
 ## DFS and BFS
 	733. Flood Fill (E)
 	130. Surrounded Regions (M)
 	200. Number of Islands (M)
+	79. Word Search (M)
 	
 ## Design
 	208. Implement Trie (Prefix Tree) (M) *
