@@ -76,6 +76,13 @@ E: Easy, M: Medium, H: Hard
 	560. Subarray Sum Equals K (M)
 	621. Task Scheduler (M) *
 	347. Top K Frequent Elements (M)
+	791. Custom Sort String (M)
+	162. Find Peak Element (M)
+	41. First Missing Positive (H)
+	387. First Unique Character in a String (E)
+	412. Fizz Buzz (E)
+	334. Increasing Triplet Subsequence (M) **
+	289. Game of Life (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -99,6 +106,8 @@ E: Easy, M: Medium, H: Hard
     232. Implement Queue using Stacks (E)
 	20. Valid Parentheses (E)
 	921. Minimum Add to Make Parentheses Valid (M)
+	227. Basic Calculator II (M) *
+	150. Evaluate Reverse Polish Notation (M)
     
 ## Tree and Graph
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -136,6 +145,7 @@ E: Easy, M: Medium, H: Hard
 	226. Invert Binary Tree (E)
 	104. Maximum Depth of Binary Tree (E)
 	617. Merge Two Binary Trees (E)
+	103. Binary Tree Zigzag Level Order Traversal (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -153,6 +163,8 @@ E: Easy, M: Medium, H: Hard
 	172. Factorial Trailing Zeroes (E)
 	1006. Clumsy Factorial (M)
 	338. Counting Bits (M)
+	204. Count Primes (E)
+	166. Fraction to Recurring Decimal (M)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
