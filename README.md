@@ -83,6 +83,12 @@ E: Easy, M: Medium, H: Hard
 	412. Fizz Buzz (E)
 	334. Increasing Triplet Subsequence (M) **
 	289. Game of Life (M)
+	395. Longest Substring with At Least K Repeating Characters (M)
+	179. Largest Number (M)
+	373. Find K Pairs with Smallest Sums (M)
+	378. Kth Smallest Element in a Sorted Matrix (M) *
+	131. Palindrome Partitioning (M)
+	132. Palindrome Partitioning II (H)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -100,6 +106,7 @@ E: Easy, M: Medium, H: Hard
     206. Reverse Linked List (E) *
     92. Reverse Linked List II (M)
 	148. Sort List (M)
+	328. Odd Even Linked List (M)
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -146,6 +153,7 @@ E: Easy, M: Medium, H: Hard
 	104. Maximum Depth of Binary Tree (E)
 	617. Merge Two Binary Trees (E)
 	103. Binary Tree Zigzag Level Order Traversal (M)
+	230. Kth Smallest Element in a BST (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -164,7 +172,11 @@ E: Easy, M: Medium, H: Hard
 	1006. Clumsy Factorial (M)
 	338. Counting Bits (M)
 	204. Count Primes (E)
-	166. Fraction to Recurring Decimal (M)
+	166. Fraction to Recurring Decimal (M) *
+	202. Happy Number (E)
+	50. Pow(x, n) (E)
+	326. Power of Three (E)
+	319. Bulb Switcher (M)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -193,6 +205,8 @@ E: Easy, M: Medium, H: Hard
 	647. Palindromic Substrings (M)
 	416. Partition Equal Subset Sum (M)
 	494. Target Sum (M)
+	279. Perfect Squares (M)
+	140. Word Break II (H)
 	
 ## DFS and BFS
 	733. Flood Fill (E)
