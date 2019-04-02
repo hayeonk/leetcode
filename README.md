@@ -154,6 +154,9 @@ E: Easy, M: Medium, H: Hard
 	617. Merge Two Binary Trees (E)
 	103. Binary Tree Zigzag Level Order Traversal (M)
 	230. Kth Smallest Element in a BST (M)
+	199. Binary Tree Right Side View (M)
+	257. Binary Tree Paths (E)
+	124. Binary Tree Maximum Path Sum (H) **
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -213,6 +216,9 @@ E: Easy, M: Medium, H: Hard
 	130. Surrounded Regions (M)
 	200. Number of Islands (M)
 	79. Word Search (M)
+	417. Pacific Atlantic Water Flow (M)
+	473. Matchsticks to Square (M)
+	491. Increasing Subsequences (M)
 	
 ## Design
 	208. Implement Trie (Prefix Tree) (M) *
