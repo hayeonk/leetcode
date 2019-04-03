@@ -89,6 +89,13 @@ E: Easy, M: Medium, H: Hard
 	378. Kth Smallest Element in a Sorted Matrix (M) *
 	131. Palindrome Partitioning (M)
 	132. Palindrome Partitioning II (H)
+	392. Is Subsequence (M)
+	376. Wiggle Subsequence (M)
+	402. Remove K Digits (M)
+	738. Monotone Increasing Digits (M)
+	435. Non-overlapping Intervals (M) *
+	452. Minimum Number of Arrows to Burst Balloons (M)
+	526. Beautiful Arrangement (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -157,6 +164,10 @@ E: Easy, M: Medium, H: Hard
 	199. Binary Tree Right Side View (M)
 	257. Binary Tree Paths (E)
 	124. Binary Tree Maximum Path Sum (H) **
+	310. Minimum Height Trees (M) *
+	515. Find Largest Value in Each Tree Row (M)
+	429. N-ary Tree Level Order Traversal (E)
+	993. Cousins in Binary Tree (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -180,6 +191,8 @@ E: Easy, M: Medium, H: Hard
 	50. Pow(x, n) (E)
 	326. Power of Three (E)
 	319. Bulb Switcher (M)
+	263. Ugly Number (E)
+	343. Integer Break (M)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -210,8 +223,10 @@ E: Easy, M: Medium, H: Hard
 	494. Target Sum (M)
 	279. Perfect Squares (M)
 	140. Word Break II (H)
+	264. Ugly Number II (M) *
+	303. Range Sum Query - Immutable (E)
 	
-## DFS and BFS
+## Graph (DFS and BFS)
 	733. Flood Fill (E)
 	130. Surrounded Regions (M)
 	200. Number of Islands (M)
@@ -219,6 +234,12 @@ E: Easy, M: Medium, H: Hard
 	417. Pacific Atlantic Water Flow (M)
 	473. Matchsticks to Square (M)
 	491. Increasing Subsequences (M)
+	542. 01 Matrix (M)
+	743. Network Delay Time (M) *
+	752. Open the Lock (M)
+	785. Is Graph Bipartite? (M) *
+	994. Rotting Oranges (E)
+	934. Shortest Bridge (M)
 	
 ## Design
 	208. Implement Trie (Prefix Tree) (M) *
