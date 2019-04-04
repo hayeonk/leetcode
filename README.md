@@ -96,6 +96,11 @@ E: Easy, M: Medium, H: Hard
 	435. Non-overlapping Intervals (M) *
 	452. Minimum Number of Arrows to Burst Balloons (M)
 	526. Beautiful Arrangement (M)
+	374. Guess Number Higher or Lower (E)
+	313. Super Ugly Number (M)
+	54. Spiral Matrix (M)
+	777. Swap Adjacent in LR String (M)
+	228. Summary Ranges (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -225,6 +230,13 @@ E: Easy, M: Medium, H: Hard
 	140. Word Break II (H)
 	264. Ugly Number II (M) *
 	303. Range Sum Query - Immutable (E)
+	304. Range Sum Query 2D - Immutable (M) *
+	375. Guess Number Higher or Lower II (M) *
+	377. Combination Sum IV (M)
+	413. Arithmetic Slices (M)
+	368. Largest Divisible Subset (M) *
+	486. Predict the Winner (M)
+	474. Ones and Zeroes (M) *
 	
 ## Graph (DFS and BFS)
 	733. Flood Fill (E)
