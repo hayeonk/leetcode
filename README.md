@@ -101,6 +101,13 @@ E: Easy, M: Medium, H: Hard
 	54. Spiral Matrix (M)
 	777. Swap Adjacent in LR String (M)
 	228. Summary Ranges (M)
+	151. Reverse Words in a String (M)
+	189. Rotate Array (E)
+	205. Isomorphic Strings (E)
+	209. Minimum Size Subarray Sum (M)
+	229. Majority Element II (M) *
+	565. Array Nesting (M)
+	290. Word Pattern (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -119,6 +126,8 @@ E: Easy, M: Medium, H: Hard
     92. Reverse Linked List II (M)
 	148. Sort List (M)
 	328. Odd Even Linked List (M)
+	143. Reorder List (M) *
+	203. Remove Linked List Elements (E)
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -127,8 +136,9 @@ E: Easy, M: Medium, H: Hard
 	921. Minimum Add to Make Parentheses Valid (M)
 	227. Basic Calculator II (M) *
 	150. Evaluate Reverse Polish Notation (M)
+	341. Flatten Nested List Iterator (M) *
     
-## Tree and Graph
+## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
     109. Convert Sorted List to Binary Search Tree (M)
     102. Binary Tree Level Order Traversal (M)
@@ -173,6 +183,8 @@ E: Easy, M: Medium, H: Hard
 	515. Find Largest Value in Each Tree Row (M)
 	429. N-ary Tree Level Order Traversal (E)
 	993. Cousins in Binary Tree (E)
+	173. Binary Search Tree Iterator (M)
+	222. Count Complete Tree Nodes (M) *
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -198,6 +210,11 @@ E: Easy, M: Medium, H: Hard
 	319. Bulb Switcher (M)
 	263. Ugly Number (E)
 	343. Integer Break (M)
+	892. Surface Area of 3D Shapes (E)
+	372. Super Pow (M)
+	201. Bitwise AND of Numbers Range (M)
+	223. Rectangle Area (M)
+	258. Add Digits (E)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -237,6 +254,7 @@ E: Easy, M: Medium, H: Hard
 	368. Largest Divisible Subset (M) *
 	486. Predict the Winner (M)
 	474. Ones and Zeroes (M) *
+	516. Longest Palindromic Subsequence (M) *
 	
 ## Graph (DFS and BFS)
 	733. Flood Fill (E)
