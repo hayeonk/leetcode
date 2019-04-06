@@ -108,6 +108,10 @@ E: Easy, M: Medium, H: Hard
 	229. Majority Element II (M) *
 	565. Array Nesting (M)
 	290. Word Pattern (E)
+	7. Reverse Integer (E)
+	42. Trapping Rain Water (H)
+	485. Max Consecutive Ones (E)
+	383. Ransom Note (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -185,6 +189,8 @@ E: Easy, M: Medium, H: Hard
 	993. Cousins in Binary Tree (E)
 	173. Binary Search Tree Iterator (M)
 	222. Count Complete Tree Nodes (M) *
+	513. Find Bottom Left Tree Value (M)
+	107. Binary Tree Level Order Traversal II (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -215,6 +221,7 @@ E: Easy, M: Medium, H: Hard
 	201. Bitwise AND of Numbers Range (M)
 	223. Rectangle Area (M)
 	258. Add Digits (E)
+	9. Palindrome Number (E)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
