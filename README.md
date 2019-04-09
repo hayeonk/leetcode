@@ -120,6 +120,13 @@ E: Easy, M: Medium, H: Hard
 	867. Transpose Matrix (E)
 	709. To Lower Case (E)
 	766. Toeplitz Matrix (E)
+	884. Uncommon Words from Two Sentences (E)
+	394. Decode String (M) **
+	128. Longest Consecutive Sequence (H) *
+	318. Maximum Product of Word Lengths (M)
+	925. Long Pressed Name (E)
+	962. Maximum Width Ramp (M)
+	870. Advantage Shuffle (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -141,6 +148,7 @@ E: Easy, M: Medium, H: Hard
 	143. Reorder List (M) *
 	203. Remove Linked List Elements (E)
 	23. Merge k Sorted Lists (H)
+	725. Split Linked List in Parts (M)
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -240,6 +248,7 @@ E: Easy, M: Medium, H: Hard
 	9. Palindrome Number (E)
 	69. Sqrt(x) (E)
 	367. Valid Perfect Square (E)
+	633. Sum of Square Numbers (E)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -296,6 +305,8 @@ E: Easy, M: Medium, H: Hard
 	785. Is Graph Bipartite? (M) *
 	994. Rotting Oranges (E)
 	934. Shortest Bridge (M)
+	463. Island Perimeter (E)
+	695. Max Area of Island (M)
 	
 ## Design
 	208. Implement Trie (Prefix Tree) (M) *
