@@ -112,6 +112,14 @@ E: Easy, M: Medium, H: Hard
 	42. Trapping Rain Water (H)
 	485. Max Consecutive Ones (E)
 	383. Ransom Note (E)
+	219. Contains Duplicate II (E)
+	670. Maximum Swap (M)
+	442. Find All Duplicates in an Array (M)
+	561. Array Partition I (E)
+	557. Reverse Words in a String III (E)
+	867. Transpose Matrix (E)
+	709. To Lower Case (E)
+	766. Toeplitz Matrix (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -132,6 +140,7 @@ E: Easy, M: Medium, H: Hard
 	328. Odd Even Linked List (M)
 	143. Reorder List (M) *
 	203. Remove Linked List Elements (E)
+	23. Merge k Sorted Lists (H)
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -141,6 +150,9 @@ E: Easy, M: Medium, H: Hard
 	227. Basic Calculator II (M) *
 	150. Evaluate Reverse Polish Notation (M)
 	341. Flatten Nested List Iterator (M) *
+	496. Next Greater Element I (E)
+	503. Next Greater Element II (M)
+	84. Largest Rectangle in Histogram (H) *
     
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -191,6 +203,10 @@ E: Easy, M: Medium, H: Hard
 	222. Count Complete Tree Nodes (M) *
 	513. Find Bottom Left Tree Value (M)
 	107. Binary Tree Level Order Traversal II (E)
+	145. Binary Tree Postorder Traversal (H) * (iterative)
+	307. Range Sum Query - Mutable (M) **
+	404. Sum of Left Leaves (E)
+	106. Construct Binary Tree from Inorder and Postorder Traversal (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -222,6 +238,8 @@ E: Easy, M: Medium, H: Hard
 	223. Rectangle Area (M)
 	258. Add Digits (E)
 	9. Palindrome Number (E)
+	69. Sqrt(x) (E)
+	367. Valid Perfect Square (E)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -262,6 +280,7 @@ E: Easy, M: Medium, H: Hard
 	486. Predict the Winner (M)
 	474. Ones and Zeroes (M) *
 	516. Longest Palindromic Subsequence (M) *
+	44. Wildcard Matching (H)
 	
 ## Graph (DFS and BFS)
 	733. Flood Fill (E)
