@@ -52,7 +52,7 @@ E: Easy, M: Medium, H: Hard
 	713. Subarray Product Less Than K (M)
 	438. Find All Anagrams in a String (E)
 	125. Valid Palindrome (E)
-	127. Word Ladder (M)
+	127. Word Ladder (M) *
 	153. Find Minimum in Rotated Sorted Array (M)
 	273. Integer to English Words (H)
 	457. Circular Array Loop (M)
@@ -127,6 +127,11 @@ E: Easy, M: Medium, H: Hard
 	925. Long Pressed Name (E)
 	962. Maximum Width Ramp (M)
 	870. Advantage Shuffle (M)
+	433. Minimum Genetic Mutation (M)
+	59. Spiral Matrix II (M)
+	455. Assign Cookies (E)
+	796. Rotate String (E)
+	424. Longest Repeating Character Replacement (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -161,6 +166,8 @@ E: Easy, M: Medium, H: Hard
 	496. Next Greater Element I (E)
 	503. Next Greater Element II (M)
 	84. Largest Rectangle in Histogram (H) *
+	907. Sum of Subarray Minimums (M) **
+	224. Basic Calculator (H) *
     
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -215,6 +222,9 @@ E: Easy, M: Medium, H: Hard
 	307. Range Sum Query - Mutable (M) **
 	404. Sum of Left Leaves (E)
 	106. Construct Binary Tree from Inorder and Postorder Traversal (M)
+	865. Smallest Subtree with all the Deepest Nodes (M)
+	450. Delete Node in a BST (M) *
+	637. Average of Levels in Binary Tree (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -249,6 +259,7 @@ E: Easy, M: Medium, H: Hard
 	69. Sqrt(x) (E)
 	367. Valid Perfect Square (E)
 	633. Sum of Square Numbers (E)
+	476. Number Complement (E)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -290,6 +301,8 @@ E: Easy, M: Medium, H: Hard
 	474. Ones and Zeroes (M) *
 	516. Longest Palindromic Subsequence (M) *
 	44. Wildcard Matching (H)
+	740. Delete and Earn (M)
+	354. Russian Doll Envelopes (H) *
 	
 ## Graph (DFS and BFS)
 	733. Flood Fill (E)
