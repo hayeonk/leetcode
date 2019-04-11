@@ -132,6 +132,15 @@ E: Easy, M: Medium, H: Hard
 	455. Assign Cookies (E)
 	796. Rotate String (E)
 	424. Longest Repeating Character Replacement (M)
+	13. Roman to Integer (E)
+	720. Longest Word in Dictionary (E)
+	820. Short Encoding of Words (M) *
+	524. Longest Word in Dictionary through Deleting (M)
+	860. Lemonade Change (E)
+	36. Valid Sudoku (M)
+	43. Multiply Strings (M)
+	57. Insert Interval (H)
+	68. Text Justification (H)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -154,6 +163,7 @@ E: Easy, M: Medium, H: Hard
 	203. Remove Linked List Elements (E)
 	23. Merge k Sorted Lists (H)
 	725. Split Linked List in Parts (M)
+	25. Reverse Nodes in k-Group (H) *
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -168,6 +178,7 @@ E: Easy, M: Medium, H: Hard
 	84. Largest Rectangle in Histogram (H) *
 	907. Sum of Subarray Minimums (M) **
 	224. Basic Calculator (H) *
+	32. Longest Valid Parentheses (H) *
     
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -225,6 +236,7 @@ E: Easy, M: Medium, H: Hard
 	865. Smallest Subtree with all the Deepest Nodes (M)
 	450. Delete Node in a BST (M) *
 	637. Average of Levels in Binary Tree (E)
+	589. N-ary Tree Preorder Traversal (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -303,6 +315,10 @@ E: Easy, M: Medium, H: Hard
 	44. Wildcard Matching (H)
 	740. Delete and Earn (M)
 	354. Russian Doll Envelopes (H) *
+	673. Number of Longest Increasing Subsequence (M) *
+	10. Regular Expression Matching (H) *
+	583. Delete Operation for Two Strings (M)
+	72. Edit Distance (H) *
 	
 ## Graph (DFS and BFS)
 	733. Flood Fill (E)
