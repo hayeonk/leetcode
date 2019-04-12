@@ -141,6 +141,12 @@ E: Easy, M: Medium, H: Hard
 	43. Multiply Strings (M)
 	57. Insert Interval (H)
 	68. Text Justification (H)
+	594. Longest Harmonious Subsequence (E)
+	890. Find and Replace Pattern (M)
+	944. Delete Columns to Make Sorted (E)
+	769. Max Chunks To Make Sorted (M)
+	768. Max Chunks To Make Sorted II (H)
+	955. Delete Columns to Make Sorted II (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -237,6 +243,8 @@ E: Easy, M: Medium, H: Hard
 	450. Delete Node in a BST (M) *
 	637. Average of Levels in Binary Tree (E)
 	589. N-ary Tree Preorder Traversal (E)
+	590. N-ary Tree Postorder Traversal (E)
+	501. Find Mode in Binary Search Tree (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -272,6 +280,7 @@ E: Easy, M: Medium, H: Hard
 	367. Valid Perfect Square (E)
 	633. Sum of Square Numbers (E)
 	476. Number Complement (E)
+	342. Power of Four (E)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -319,6 +328,8 @@ E: Easy, M: Medium, H: Hard
 	10. Regular Expression Matching (H) *
 	583. Delete Operation for Two Strings (M)
 	72. Edit Distance (H) *
+	97. Interleaving String (H)
+	714. Best Time to Buy and Sell Stock with Transaction Fee (M) *
 	
 ## Graph (DFS and BFS)
 	733. Flood Fill (E)
