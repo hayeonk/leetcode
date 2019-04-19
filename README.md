@@ -147,6 +147,10 @@ E: Easy, M: Medium, H: Hard
 	769. Max Chunks To Make Sorted (M)
 	768. Max Chunks To Make Sorted II (H)
 	955. Delete Columns to Make Sorted II (M)
+	451. Sort Characters By Frequency (M)
+	692. Top K Frequent Words (M) *
+	703. Kth Largest Element in a Stream (E)
+	241. Different Ways to Add Parentheses (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -170,6 +174,7 @@ E: Easy, M: Medium, H: Hard
 	23. Merge k Sorted Lists (H)
 	725. Split Linked List in Parts (M)
 	25. Reverse Nodes in k-Group (H) *
+	1019. Next Greater Node In Linked List (M)
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -248,7 +253,7 @@ E: Easy, M: Medium, H: Hard
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
-	191. Number of 1 Bits (E) *
+	191. Number of 1 Bits (E) * -> done
 	389. Find the Difference (E)
 	231. Power of Two (E)
 	268. Missing Number (E) *
@@ -330,6 +335,7 @@ E: Easy, M: Medium, H: Hard
 	72. Edit Distance (H) *
 	97. Interleaving String (H)
 	714. Best Time to Buy and Sell Stock with Transaction Fee (M) *
+	85. Maximal Rectangle (H) *
 	
 ## Graph (DFS and BFS)
 	733. Flood Fill (E)
