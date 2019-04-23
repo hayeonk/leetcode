@@ -151,6 +151,8 @@ E: Easy, M: Medium, H: Hard
 	692. Top K Frequent Words (M) *
 	703. Kth Largest Element in a Stream (E)
 	241. Different Ways to Add Parentheses (M)
+	767. Reorganize String (M) * 
+	646. Maximum Length of Pair Chain (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -250,6 +252,10 @@ E: Easy, M: Medium, H: Hard
 	589. N-ary Tree Preorder Traversal (E)
 	590. N-ary Tree Postorder Traversal (E)
 	501. Find Mode in Binary Search Tree (E)
+	654. Maximum Binary Tree (M)
+	998. Maximum Binary Tree II (M)
+	449. Serialize and Deserialize BST (M)
+	99. Recover Binary Search Tree (H) *
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
