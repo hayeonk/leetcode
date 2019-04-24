@@ -153,6 +153,7 @@ E: Easy, M: Medium, H: Hard
 	241. Different Ways to Add Parentheses (M)
 	767. Reorganize String (M) * 
 	646. Maximum Length of Pair Chain (M)
+	657. Robot Return to Origin (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -343,7 +344,7 @@ E: Easy, M: Medium, H: Hard
 	714. Best Time to Buy and Sell Stock with Transaction Fee (M) *
 	85. Maximal Rectangle (H) *
 	
-## Graph (DFS and BFS)
+## Graph
 	733. Flood Fill (E)
 	130. Surrounded Regions (M)
 	200. Number of Islands (M)
@@ -359,6 +360,12 @@ E: Easy, M: Medium, H: Hard
 	934. Shortest Bridge (M)
 	463. Island Perimeter (E)
 	695. Max Area of Island (M)
-	
-## Design
+	399. Evaluate Division (M)
+	547. Friend Circles (M) *
+	947. Most Stones Removed with Same Row or Column (M)
+	990. Satisfiability of Equality Equations (M) *
+	648. Replace Words (M)
 	208. Implement Trie (Prefix Tree) (M) *
+	211. Add and Search Word - Data structure design (M)
+	684. Redundant Connection (M) *
+	576. Out of Boundary Paths (M)
