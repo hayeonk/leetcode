@@ -257,6 +257,7 @@ E: Easy, M: Medium, H: Hard
 	998. Maximum Binary Tree II (M)
 	449. Serialize and Deserialize BST (M)
 	99. Recover Binary Search Tree (H) *
+	662. Maximum Width of Binary Tree (M) *
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -369,3 +370,4 @@ E: Easy, M: Medium, H: Hard
 	211. Add and Search Word - Data structure design (M)
 	684. Redundant Connection (M) *
 	576. Out of Boundary Paths (M)
+	332. Reconstruct Itinerary (M) *
