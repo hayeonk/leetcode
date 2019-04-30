@@ -344,6 +344,7 @@ E: Easy, M: Medium, H: Hard
 	97. Interleaving String (H)
 	714. Best Time to Buy and Sell Stock with Transaction Fee (M) *
 	85. Maximal Rectangle (H) *
+	523. Continuous Subarray Sum (M)
 	
 ## Graph
 	733. Flood Fill (E)
@@ -371,3 +372,9 @@ E: Easy, M: Medium, H: Hard
 	684. Redundant Connection (M) *
 	576. Out of Boundary Paths (M)
 	332. Reconstruct Itinerary (M) *
+	787. Cheapest Flights Within K Stops (M) *
+	863. All Nodes Distance K in Binary Tree (M)
+	997. Find the Town Judge (E)
+	802. Find Eventual Safe States (M) *
+	841. Keys and Rooms (M)
+	133. Clone Graph (M)
