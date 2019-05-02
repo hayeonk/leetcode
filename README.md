@@ -52,21 +52,21 @@ E: Easy, M: Medium, H: Hard
 	713. Subarray Product Less Than K (M)
 	438. Find All Anagrams in a String (E)
 	125. Valid Palindrome (E)
-	127. Word Ladder (M) *
+	127. Word Ladder (M) * -> 다시풀기 *
 	153. Find Minimum in Rotated Sorted Array (M)
 	273. Integer to English Words (H)
 	457. Circular Array Loop (M)
 	605. Can Place Flowers (E)
-	134. Gas Station (M) *
+	134. Gas Station (M) * -> 다시풀기 *
 	216. Combination Sum III (M)
 	697. Degree of an Array (E) * -> 다시풀기 *
-	525. Contiguous Array (M) *
-	220. Contains Duplicate III (M) *
-	122. Best Time to Buy and Sell Stock II (E) *
+	525. Contiguous Array (M) * -> 다시풀기 *
+	220. Contains Duplicate III (M) * -> 다시풀기 *
+	122. Best Time to Buy and Sell Stock II (E) * -> 맞음!
 	448. Find All Numbers Disappeared in an Array (E)
 	287. Find the Duplicate Number (M)
 	771. Jewels and Stones (E)
-	215. Kth Largest Element in an Array (M) *
+	215. Kth Largest Element in an Array (M) * -> 맞음!
 	3. Longest Substring Without Repeating Characters (M)
 	283. Move Zeroes (E)
 	238. Product of Array Except Self (M)
@@ -74,14 +74,14 @@ E: Easy, M: Medium, H: Hard
 	240. Search a 2D Matrix II (M)
 	581. Shortest Unsorted Continuous Subarray (E)
 	560. Subarray Sum Equals K (M)
-	621. Task Scheduler (M) *
+	621. Task Scheduler (M) * -> 맞음!
 	347. Top K Frequent Elements (M)
 	791. Custom Sort String (M)
 	162. Find Peak Element (M)
 	41. First Missing Positive (H)
 	387. First Unique Character in a String (E)
 	412. Fizz Buzz (E)
-	334. Increasing Triplet Subsequence (M) **
+	334. Increasing Triplet Subsequence (M) ** -> 부등호 하나 틀림
 	289. Game of Life (M)
 	395. Longest Substring with At Least K Repeating Characters (M)
 	179. Largest Number (M)
@@ -93,7 +93,7 @@ E: Easy, M: Medium, H: Hard
 	376. Wiggle Subsequence (M)
 	402. Remove K Digits (M)
 	738. Monotone Increasing Digits (M)
-	435. Non-overlapping Intervals (M) *
+	435. Non-overlapping Intervals (M) * -> 맞음!
 	452. Minimum Number of Arrows to Burst Balloons (M)
 	526. Beautiful Arrangement (M)
 	374. Guess Number Higher or Lower (E)
@@ -134,7 +134,7 @@ E: Easy, M: Medium, H: Hard
 	424. Longest Repeating Character Replacement (M)
 	13. Roman to Integer (E)
 	720. Longest Word in Dictionary (E)
-	820. Short Encoding of Words (M) *
+	820. Short Encoding of Words (M) * -> 풀긴 했는데 너무 비효율적, 다시풀기 *
 	524. Longest Word in Dictionary through Deleting (M)
 	860. Lemonade Change (E)
 	36. Valid Sudoku (M)
@@ -148,13 +148,17 @@ E: Easy, M: Medium, H: Hard
 	768. Max Chunks To Make Sorted II (H)
 	955. Delete Columns to Make Sorted II (M)
 	451. Sort Characters By Frequency (M)
-	692. Top K Frequent Words (M) *
+	692. Top K Frequent Words (M) * -> 맞음!
 	703. Kth Largest Element in a Stream (E)
 	241. Different Ways to Add Parentheses (M)
 	767. Reorganize String (M) * 
 	646. Maximum Length of Pair Chain (M)
 	657. Robot Return to Origin (E)
 	659. Split Array into Consecutive Subsequences (M) *
+	409. Longest Palindrome (E)
+	628. Maximum Product of Three Numbers (E)
+	821. Shortest Distance to a Character (E) *
+	441. Arranging Coins (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -185,7 +189,7 @@ E: Easy, M: Medium, H: Hard
     232. Implement Queue using Stacks (E)
 	20. Valid Parentheses (E)
 	921. Minimum Add to Make Parentheses Valid (M)
-	227. Basic Calculator II (M) *
+	227. Basic Calculator II (M) * -> 사소한 실수지만 다시풀기 *
 	150. Evaluate Reverse Polish Notation (M)
 	341. Flatten Nested List Iterator (M) *
 	496. Next Greater Element I (E)
@@ -202,7 +206,7 @@ E: Easy, M: Medium, H: Hard
     110. Balanced Binary Tree (E)
     98. Validate Binary Search Tree (M)
     207. Course Schedule (M)
-    210. Course Schedule II (M) *
+    210. Course Schedule II (M) * -> 맞음!
     235. Lowest Common Ancestor of a Binary Search Tree (E)
     236. Lowest Common Ancestor of a Binary Tree (M) *
     572. Subtree of Another Tree (E)
@@ -262,14 +266,14 @@ E: Easy, M: Medium, H: Hard
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
-	191. Number of 1 Bits (E) * -> done
+	191. Number of 1 Bits (E) * -> 맞음!
 	389. Find the Difference (E)
 	231. Power of Two (E)
-	268. Missing Number (E) *
+	268. Missing Number (E)
 	693. Binary Number with Alternating Bits (E)
 	461. Hamming Distance (E)
 	137. Single Number II (M) *
-	260. Single Number III (M) **
+	260. Single Number III (M) ** -> 와 이런 실수를 하다니ㅠㅠ..
 	190. Reverse Bits (E)
 	67. Add Binary (E)
 	29. Divide Two Integers (M) *
@@ -303,19 +307,19 @@ E: Easy, M: Medium, H: Hard
     64. Minimum Path Sum (M)
     70. Climbing Stairs (E)
 	746. Min Cost Climbing Stairs (E)
-	5. Longest Palindromic Substring (M) *
+	5. Longest Palindromic Substring (M) * -> 실수 ㅠ
 	22. Generate Parentheses (M)
-	322. Coin Change (M)
+	322. Coin Change (M) * -> 사소하게 틀림
 	51. N-Queens (H) *
 	52. N-Queens II (H)
 	300. Longest Increasing Subsequence (M)
-	91. Decode Ways (M) **
+	91. Decode Ways (M) ** -> 애매하게 틀림
 	120. Triangle (M)
 	121. Best Time to Buy and Sell Stock (E)
-	139. Word Break (M) *
-	152. Maximum Product Subarray (M) *
+	139. Word Break (M) * -> 맞음!
+	152. Maximum Product Subarray (M) * -> 사소하게 틀림
 	198. House Robber (E)
-	213. House Robber II (M) *
+	213. House Robber II (M) * -> 애매하게 맞음
 	464. Can I Win (M)
 	518. Coin Change 2 (M) **
 	309. Best Time to Buy and Sell Stock with Cooldown (M) **
