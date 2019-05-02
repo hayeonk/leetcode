@@ -10,30 +10,30 @@ E: Easy, M: Medium, H: Hard
     653. Two Sum IV - Input is a BST (E)
     26. Remove Duplicates from Sorted Array (E)
     27. Remove Element (E)
-    31. Next Permutation (M) *
-    33. Search in Rotated Sorted Array (M) *
+    31. Next Permutation (M) * -> index 주의, 부등호 하나 틀림
+    33. Search in Rotated Sorted Array (M) * -> 부등호 주의, 부등호 하나 틀림
     34. Find First and Last Position of Element in Sorted Array (M)
     35. Search Insert Position (E)
     39. Combination Sum (M)
-    40. Combination Sum II (M) *
-    11. Container With Most Water (M) *
+    40. Combination Sum II (M) * -> backtracking에 넘겨주는 idx랑 i랑 헷갈리지 말기
+    11. Container With Most Water (M) * -> 또틀림, 다시풀기 *
     46. Permutations (M)
-    47. Permutations II (M) *
+    47. Permutations II (M) * -> 맞음!
     56. Merge Intervals (M)
     58. Length of Last Word (E)
     60. Permutation Sequence (M)
     74. Search a 2D Matrix (M)
     77. Combinations (M)
     78. Subsets (M)
-    90. Subsets II (M) *
+    90. Subsets II (M) * -> 실수 ㅠ
     75. Sort Colors (M)
 	55. Jump Game (M)
 	45. Jump Game II (H)
-	169. Majority Element (E) *
+	169. Majority Element (E) * -> 실수 ㅠ
 	17. Letter Combinations of a Phone Number (M)
 	14. Longest Common Prefix (E)
 	12. Integer to Roman (M)
-	15. 3Sum (M) *
+	15. 3Sum (M) * -> 또틀림, 다시풀기 *
 	16. 3Sum Closest (M)
 	18. 4Sum (M)
 	28. Implement strStr() (E) -> string 공부하면서 다시 풀기
@@ -59,7 +59,7 @@ E: Easy, M: Medium, H: Hard
 	605. Can Place Flowers (E)
 	134. Gas Station (M) *
 	216. Combination Sum III (M)
-	697. Degree of an Array (E) *
+	697. Degree of an Array (E) * -> 다시풀기 *
 	525. Contiguous Array (M) *
 	220. Contains Duplicate III (M) *
 	122. Best Time to Buy and Sell Stock II (E) *
@@ -154,6 +154,7 @@ E: Easy, M: Medium, H: Hard
 	767. Reorganize String (M) * 
 	646. Maximum Length of Pair Chain (M)
 	657. Robot Return to Origin (E)
+	659. Split Array into Consecutive Subsequences (M) *
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -345,6 +346,8 @@ E: Easy, M: Medium, H: Hard
 	714. Best Time to Buy and Sell Stock with Transaction Fee (M) *
 	85. Maximal Rectangle (H) *
 	523. Continuous Subarray Sum (M)
+	718. Maximum Length of Repeated Subarray (M)
+	801. Minimum Swaps To Make Sequences Increasing (M) *
 	
 ## Graph
 	733. Flood Fill (E)
