@@ -122,7 +122,7 @@ E: Easy, M: Medium, H: Hard
 	766. Toeplitz Matrix (E)
 	884. Uncommon Words from Two Sentences (E)
 	394. Decode String (M) **
-	128. Longest Consecutive Sequence (H) *
+	128. Longest Consecutive Sequence (H) * -> 다시풀기 *
 	318. Maximum Product of Word Lengths (M)
 	925. Long Pressed Name (E)
 	962. Maximum Width Ramp (M)
@@ -159,6 +159,20 @@ E: Easy, M: Medium, H: Hard
 	628. Maximum Product of Three Numbers (E)
 	821. Shortest Distance to a Character (E) *
 	441. Arranging Coins (E)
+	252. Meeting Rooms (E)
+	253. Meeting Rooms II (M) *
+	157. Read N Characters Given Read4 (E)
+	159. Longest Substring with At Most Two Distinct Characters (H)
+	161. One Edit Distance (M)
+	163. Missing Ranges (M)
+	170. Two Sum III - Data structure design (E)
+	186. Reverse Words in a String II (M)
+	243. Shortest Word Distance (E)
+	244. Shortest Word Distance II (M)
+	245. Shortest Word Distance III (M)
+	246. Strobogrammatic Number (E)
+	247. Strobogrammatic Number II (M)
+	249. Group Shifted Strings (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -194,11 +208,13 @@ E: Easy, M: Medium, H: Hard
 	341. Flatten Nested List Iterator (M) *
 	496. Next Greater Element I (E)
 	503. Next Greater Element II (M)
-	84. Largest Rectangle in Histogram (H) *
-	907. Sum of Subarray Minimums (M) **
+	84. Largest Rectangle in Histogram (H) * -> 한번만 더풀자ㅠ
+	907. Sum of Subarray Minimums (M) ** -> 다시풀기 **
 	224. Basic Calculator (H) *
-	32. Longest Valid Parentheses (H) *
+	32. Longest Valid Parentheses (H) * -> 다시풀기 *
     622. Design Circular Queue (M)
+	901. Online Stock Span (M)
+	828. Unique Letter String (H)
 	
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -264,6 +280,7 @@ E: Easy, M: Medium, H: Hard
 	449. Serialize and Deserialize BST (M)
 	99. Recover Binary Search Tree (H) *
 	662. Maximum Width of Binary Tree (M) *
+	250. Count Univalue Subtrees (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -354,6 +371,7 @@ E: Easy, M: Medium, H: Hard
 	718. Maximum Length of Repeated Subarray (M)
 	801. Minimum Swaps To Make Sequences Increasing (M) *
 	918. Maximum Sum Circular Subarray (M) *
+	256. Paint House (E)
 	
 ## Graph
 	733. Flood Fill (E)
