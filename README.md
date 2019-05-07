@@ -121,7 +121,7 @@ E: Easy, M: Medium, H: Hard
 	709. To Lower Case (E)
 	766. Toeplitz Matrix (E)
 	884. Uncommon Words from Two Sentences (E)
-	394. Decode String (M) **
+	394. Decode String (M) ** -> 다시풀기 *
 	128. Longest Consecutive Sequence (H) * -> 다시풀기 *
 	318. Maximum Product of Word Lengths (M)
 	925. Long Pressed Name (E)
@@ -173,6 +173,22 @@ E: Easy, M: Medium, H: Hard
 	246. Strobogrammatic Number (E)
 	247. Strobogrammatic Number II (M)
 	249. Group Shifted Strings (M)
+	254. Factor Combinations (M)
+	266. Palindrome Permutation (E)
+	267. Palindrome Permutation II (M)
+	281. Zigzag Iterator (M)
+	293. Flip Game (E)
+	294. Flip Game II (M)
+	280. Wiggle Sort (M)
+	325. Maximum Size Subarray Sum Equals k (M)
+	339. Nested List Weight Sum (E)
+	356. Line Reflection (M)
+	359. Logger Rate Limiter (E)
+	370. Range Addition (M)
+	362. Design Hit Counter (M)
+	379. Design Phone Directory (M)
+	624. Maximum Distance in Arrays (E)
+	643. Maximum Average Subarray I (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -197,6 +213,9 @@ E: Easy, M: Medium, H: Hard
 	725. Split Linked List in Parts (M)
 	25. Reverse Nodes in k-Group (H) *
 	1019. Next Greater Node In Linked List (M)
+	369. Plus One Linked List (M)
+	408. Valid Word Abbreviation (E)
+	422. Valid Word Square (E) *
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -210,7 +229,7 @@ E: Easy, M: Medium, H: Hard
 	503. Next Greater Element II (M)
 	84. Largest Rectangle in Histogram (H) * -> 한번만 더풀자ㅠ
 	907. Sum of Subarray Minimums (M) ** -> 다시풀기 **
-	224. Basic Calculator (H) *
+	224. Basic Calculator (H) * -> 다시풀기 **
 	32. Longest Valid Parentheses (H) * -> 다시풀기 *
     622. Design Circular Queue (M)
 	901. Online Stock Span (M)
@@ -281,6 +300,8 @@ E: Easy, M: Medium, H: Hard
 	99. Recover Binary Search Tree (H) *
 	662. Maximum Width of Binary Tree (M) *
 	250. Count Univalue Subtrees (M)
+	270. Closest Binary Search Tree Value (E)
+	272. Closest Binary Search Tree Value II (H)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -372,6 +393,8 @@ E: Easy, M: Medium, H: Hard
 	801. Minimum Swaps To Make Sequences Increasing (M) *
 	918. Maximum Sum Circular Subarray (M) *
 	256. Paint House (E)
+	265. Paint House II (H)
+	276. Paint Fence (E)
 	
 ## Graph
 	733. Flood Fill (E)
@@ -405,3 +428,6 @@ E: Easy, M: Medium, H: Hard
 	802. Find Eventual Safe States (M) *
 	841. Keys and Rooms (M)
 	133. Clone Graph (M)
+	269. Alien Dictionary (H) *
+	277. Find the Celebrity (M)
+	286. Walls and Gates (M)
