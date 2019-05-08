@@ -189,6 +189,16 @@ E: Easy, M: Medium, H: Hard
 	379. Design Phone Directory (M)
 	624. Maximum Distance in Arrays (E)
 	643. Maximum Average Subarray I (E)
+	408. Valid Word Abbreviation (E)
+	422. Valid Word Square (E) *
+	487. Max Consecutive Ones II (M) *
+	1004. Max Consecutive Ones III (M)
+	800. Similar RGB Color (E)
+	760. Find Anagram Mappings (E)
+	734. Sentence Similarity (E)
+	702. Search in a Sorted Array of Unknown Size (M)
+	259. 3Sum Smaller (M)
+	832. Flipping an Image (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -214,8 +224,7 @@ E: Easy, M: Medium, H: Hard
 	25. Reverse Nodes in k-Group (H) *
 	1019. Next Greater Node In Linked List (M)
 	369. Plus One Linked List (M)
-	408. Valid Word Abbreviation (E)
-	422. Valid Word Square (E) *
+	708. Insert into a Cyclic Sorted List (M) *
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -234,6 +243,10 @@ E: Easy, M: Medium, H: Hard
     622. Design Circular Queue (M)
 	901. Online Stock Span (M)
 	828. Unique Letter String (H)
+	484. Find Permutation (M) *
+	716. Max Stack (E)
+	353. Design Snake Game (M)
+	346. Moving Average from Data Stream (E)
 	
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -302,6 +315,10 @@ E: Easy, M: Medium, H: Hard
 	250. Count Univalue Subtrees (M)
 	270. Closest Binary Search Tree Value (E)
 	272. Closest Binary Search Tree Value II (H)
+	776. Split BST (M)
+	663. Equal Tree Partition (M) *
+	366. Find Leaves of Binary Tree (M)
+	285. Inorder Successor in BST (M) *
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -395,6 +412,9 @@ E: Easy, M: Medium, H: Hard
 	256. Paint House (E)
 	265. Paint House II (H)
 	276. Paint Fence (E)
+	650. 2 Keys Keyboard (M) *
+	634. Find the Derangement of An Array (M) *
+	651. 4 Keys Keyboard (M) *
 	
 ## Graph
 	733. Flood Fill (E)
@@ -431,3 +451,10 @@ E: Easy, M: Medium, H: Hard
 	269. Alien Dictionary (H) *
 	277. Find the Celebrity (M)
 	286. Walls and Gates (M)
+	737. Sentence Similarity II (M)
+	694. Number of Distinct Islands (M)
+	490. The Maze (M)
+	505. The Maze II (M) *
+	323. Number of Connected Components in an Undirected Graph (M)
+	305. Number of Islands II (H) *
+	261. Graph Valid Tree (M)
