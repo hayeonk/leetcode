@@ -199,6 +199,16 @@ E: Easy, M: Medium, H: Hard
 	702. Search in a Sorted Array of Unknown Size (M)
 	259. 3Sum Smaller (M)
 	832. Flipping an Image (E)
+	345. Reverse Vowels of a String (E)
+	929. Unique Email Addresses (E)
+	415. Add Strings (E) *
+	66. Plus One (E)
+	76. Minimum Window Substring (H) *
+	135. Candy (H) *
+	154. Find Minimum in Rotated Sorted Array II (H) *
+	361. Bomb Enemy (M)
+	616. Add Bold Tag in String (M)
+	146. LRU Cache (H) *
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -247,6 +257,8 @@ E: Easy, M: Medium, H: Hard
 	716. Max Stack (E)
 	353. Design Snake Game (M)
 	346. Moving Average from Data Stream (E)
+	739. Daily Temperatures (M)
+	772. Basic Calculator III (H) *
 	
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -415,6 +427,8 @@ E: Easy, M: Medium, H: Hard
 	650. 2 Keys Keyboard (M) *
 	634. Find the Derangement of An Array (M) *
 	651. 4 Keys Keyboard (M) *
+	115. Distinct Subsequences (H)
+	312. Burst Balloons (H) *
 	
 ## Graph
 	733. Flood Fill (E)
