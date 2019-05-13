@@ -209,6 +209,18 @@ E: Easy, M: Medium, H: Hard
 	361. Bomb Enemy (M)
 	616. Add Bold Tag in String (M)
 	146. LRU Cache (H) *
+	316. Remove Duplicate Letters (H) *
+	336. Palindrome Pairs (H) *
+	315. Count of Smaller Numbers After Self (H) *
+	844. Backspace String Compare (E)
+	833. Find And Replace in String (M)
+	941. Valid Mountain Array (E)
+	939. Minimum Area Rectangle (M)
+	731. My Calendar II (M)
+	732. My Calendar III (H)
+	388. Longest Absolute File Path (M)
+	535. Encode and Decode TinyURL (M)
+	311. Sparse Matrix Multiplication (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -306,7 +318,7 @@ E: Easy, M: Medium, H: Hard
 	429. N-ary Tree Level Order Traversal (E)
 	993. Cousins in Binary Tree (E)
 	173. Binary Search Tree Iterator (M)
-	222. Count Complete Tree Nodes (M) *
+	222. Count Complete Tree Nodes (M) * -> 다시풀기 *
 	513. Find Bottom Left Tree Value (M)
 	107. Binary Tree Level Order Traversal II (E)
 	145. Binary Tree Postorder Traversal (H) * (iterative) -> 맞음!
@@ -331,6 +343,7 @@ E: Easy, M: Medium, H: Hard
 	663. Equal Tree Partition (M) *
 	366. Find Leaves of Binary Tree (M)
 	285. Inorder Successor in BST (M) *
+	297. Serialize and Deserialize Binary Tree (M) *
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -429,6 +442,7 @@ E: Easy, M: Medium, H: Hard
 	651. 4 Keys Keyboard (M) *
 	115. Distinct Subsequences (H)
 	312. Burst Balloons (H) *
+	562. Longest Line of Consecutive One in Matrix (M) *
 	
 ## Graph
 	733. Flood Fill (E)
