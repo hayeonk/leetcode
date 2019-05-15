@@ -150,8 +150,8 @@ E: Easy, M: Medium, H: Hard
 	451. Sort Characters By Frequency (M)
 	692. Top K Frequent Words (M) * -> 맞음!
 	703. Kth Largest Element in a Stream (E)
-	241. Different Ways to Add Parentheses (M)
-	767. Reorganize String (M) * 
+	241. Different Ways to Add Parentheses (M) *
+	767. Reorganize String (M) * -> 맞음!
 	646. Maximum Length of Pair Chain (M)
 	657. Robot Return to Origin (E)
 	659. Split Array into Consecutive Subsequences (M) *
@@ -221,6 +221,20 @@ E: Easy, M: Medium, H: Hard
 	388. Longest Absolute File Path (M)
 	535. Encode and Decode TinyURL (M)
 	311. Sparse Matrix Multiplication (M)
+	320. Generalized Abbreviation (M)
+	288. Unique Word Abbreviation (M)
+	665. Non-decreasing Array (E)
+	792. Number of Matching Subsequences (M) *
+	848. Shifting Letters (M)
+	973. K Closest Points to Origin (M)
+	877. Stone Game (M)
+	397. Integer Replacement (M)
+	540. Single Element in a Sorted Array (M)
+	905. Sort Array By Parity (E)
+	340. Longest Substring with At Most K Distinct Characters (H)
+	498. Diagonal Traverse (M)
+	873. Length of Longest Fibonacci Subsequence (M)
+	995. Minimum Number of K Consecutive Bit Flips (H) *
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -239,7 +253,7 @@ E: Easy, M: Medium, H: Hard
     92. Reverse Linked List II (M)
 	148. Sort List (M)
 	328. Odd Even Linked List (M)
-	143. Reorder List (M) *
+	143. Reorder List (M) * -> 애매하게 틀림
 	203. Remove Linked List Elements (E)
 	23. Merge k Sorted Lists (H)
 	725. Split Linked List in Parts (M)
@@ -271,6 +285,7 @@ E: Easy, M: Medium, H: Hard
 	346. Moving Average from Data Stream (E)
 	739. Daily Temperatures (M)
 	772. Basic Calculator III (H) *
+	895. Maximum Frequency Stack (H)
 	
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -344,6 +359,10 @@ E: Easy, M: Medium, H: Hard
 	366. Find Leaves of Binary Tree (M)
 	285. Inorder Successor in BST (M) *
 	297. Serialize and Deserialize Binary Tree (M) *
+	1028. Recover a Tree From Preorder Traversal (H)
+	652. Find Duplicate Subtrees (M) *
+	255. Verify Preorder Sequence in Binary Search Tree (M) *
+	687. Longest Univalue Path (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
