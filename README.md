@@ -246,6 +246,9 @@ E: Easy, M: Medium, H: Hard
 	566. Reshape the Matrix (E)
 	875. Koko Eating Bananas (M)
 	462. Minimum Moves to Equal Array Elements II (M)
+	838. Push Dominoes (M)
+	187. Repeated DNA Sequences (M)
+	830. Positions of Large Groups (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -299,6 +302,7 @@ E: Easy, M: Medium, H: Hard
 	739. Daily Temperatures (M)
 	772. Basic Calculator III (H) *
 	895. Maximum Frequency Stack (H)
+	856. Score of Parentheses (M) *
 	
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -379,6 +383,8 @@ E: Easy, M: Medium, H: Hard
 	510. Inorder Successor in BST II (M) *
 	965. Univalued Binary Tree (E)
 	333. Largest BST Subtree (M)
+	872. Leaf-Similar Trees (E)
+	623. Add One Row to Tree (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -415,6 +421,7 @@ E: Easy, M: Medium, H: Hard
 	633. Sum of Square Numbers (E)
 	476. Number Complement (E)
 	342. Power of Four (E)
+	836. Rectangle Overlap (E)
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E)
@@ -526,3 +533,4 @@ E: Easy, M: Medium, H: Hard
 	677. Map Sum Pairs (M) *
 	212. Word Search II (H) *
 	924. Minimize Malware Spread (H)
+	317. Shortest Distance from All Buildings (H)
