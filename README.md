@@ -235,6 +235,17 @@ E: Easy, M: Medium, H: Hard
 	498. Diagonal Traverse (M)
 	873. Length of Longest Fibonacci Subsequence (M)
 	995. Minimum Number of K Consecutive Bit Flips (H) *
+	493. Reverse Pairs (H)
+	976. Largest Perimeter Triangle (E)
+	915. Partition Array into Disjoint Intervals (M) * index 정확하게 짜기 연습
+	419. Battleships in a Board (M)
+	977. Squares of a Sorted Array (E)
+	954. Array of Doubled Pairs (M)
+	296. Best Meeting Point (H)
+	364. Nested List Weight Sum II (M)
+	566. Reshape the Matrix (E)
+	875. Koko Eating Bananas (M)
+	462. Minimum Moves to Equal Array Elements II (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -261,6 +272,8 @@ E: Easy, M: Medium, H: Hard
 	1019. Next Greater Node In Linked List (M)
 	369. Plus One Linked List (M)
 	708. Insert into a Cyclic Sorted List (M) *
+	138. Copy List with Random Pointer (M)
+	430. Flatten a Multilevel Doubly Linked List (M) *
 	
 ## Stack and Queue
     155. Min Stack (E)
@@ -363,6 +376,9 @@ E: Easy, M: Medium, H: Hard
 	652. Find Duplicate Subtrees (M) *
 	255. Verify Preorder Sequence in Binary Search Tree (M) *
 	687. Longest Univalue Path (E)
+	510. Inorder Successor in BST II (M) *
+	965. Univalued Binary Tree (E)
+	333. Largest BST Subtree (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -505,3 +521,8 @@ E: Easy, M: Medium, H: Hard
 	323. Number of Connected Components in an Undirected Graph (M)
 	305. Number of Islands II (H) *
 	261. Graph Valid Tree (M)
+	721. Accounts Merge (M)
+	815. Bus Routes (H)
+	677. Map Sum Pairs (M) *
+	212. Word Search II (H) *
+	924. Minimize Malware Spread (H)
