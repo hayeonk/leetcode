@@ -249,6 +249,18 @@ E: Easy, M: Medium, H: Hard
 	838. Push Dominoes (M)
 	187. Repeated DNA Sequences (M)
 	830. Positions of Large Groups (E)
+	717. 1-bit and 2-bit Characters (E)
+	809. Expressive Words (M)
+	974. Subarray Sums Divisible by K (M)
+	855. Exam Room (M)
+	299. Bulls and Cows (M)
+	857. Minimum Cost to Hire K Workers (H) *
+	1011. Capacity To Ship Packages Within D Days (M)
+	826. Most Profit Assigning Work (M)
+	632. Smallest Range (H)
+	642. Design Search Autocomplete System (H)
+	351. Android Unlock Patterns (M)
+	1021. Remove Outermost Parentheses (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -385,6 +397,9 @@ E: Easy, M: Medium, H: Hard
 	333. Largest BST Subtree (M)
 	872. Leaf-Similar Trees (E)
 	623. Add One Row to Tree (M)
+	979. Distribute Coins in Binary Tree (M) *
+	968. Binary Tree Cameras (H) *
+	606. Construct String from Binary Tree (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -534,3 +549,5 @@ E: Easy, M: Medium, H: Hard
 	212. Word Search II (H) *
 	924. Minimize Malware Spread (H)
 	317. Shortest Distance from All Buildings (H)
+	407. Trapping Rain Water II (H)
+	329. Longest Increasing Path in a Matrix (H)
