@@ -261,6 +261,9 @@ E: Easy, M: Medium, H: Hard
 	642. Design Search Autocomplete System (H)
 	351. Android Unlock Patterns (M)
 	1021. Remove Outermost Parentheses (E)
+	678. Valid Parenthesis String (M)
+	475. Heaters (E)
+	459. Repeated Substring Pattern (E)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -315,6 +318,7 @@ E: Easy, M: Medium, H: Hard
 	772. Basic Calculator III (H) *
 	895. Maximum Frequency Stack (H)
 	856. Score of Parentheses (M) *
+	456. 132 Pattern (M) *
 	
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -400,6 +404,8 @@ E: Easy, M: Medium, H: Hard
 	979. Distribute Coins in Binary Tree (M) *
 	968. Binary Tree Cameras (H) *
 	606. Construct String from Binary Tree (E)
+	536. Construct Binary Tree from String (M)
+	298. Binary Tree Longest Consecutive Sequence (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -418,7 +424,7 @@ E: Easy, M: Medium, H: Hard
 	1006. Clumsy Factorial (M)
 	338. Counting Bits (M)
 	204. Count Primes (E)
-	166. Fraction to Recurring Decimal (M) *
+	166. Fraction to Recurring Decimal (M) * -> edge case 잘 생각하기 ㅠ
 	202. Happy Number (E)
 	50. Pow(x, n) (E)
 	326. Power of Three (E)
@@ -551,3 +557,4 @@ E: Easy, M: Medium, H: Hard
 	317. Shortest Distance from All Buildings (H)
 	407. Trapping Rain Water II (H)
 	329. Longest Increasing Path in a Matrix (H)
+	444. Sequence Reconstruction (M)
