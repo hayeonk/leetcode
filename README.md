@@ -72,7 +72,7 @@ E: Easy, M: Medium, H: Hard
 	238. Product of Array Except Self (M)
 	406. Queue Reconstruction by Height (M)
 	240. Search a 2D Matrix II (M)
-	581. Shortest Unsorted Continuous Subarray (E)
+	581. Shortest Unsorted Continuous Subarray (E) * -> 다시풀기 *
 	560. Subarray Sum Equals K (M)
 	621. Task Scheduler (M) * -> 맞음!
 	347. Top K Frequent Elements (M)
@@ -150,17 +150,17 @@ E: Easy, M: Medium, H: Hard
 	451. Sort Characters By Frequency (M)
 	692. Top K Frequent Words (M) * -> 맞음!
 	703. Kth Largest Element in a Stream (E)
-	241. Different Ways to Add Parentheses (M) *
+	241. Different Ways to Add Parentheses (M) * -> 맞음!
 	767. Reorganize String (M) * -> 맞음!
 	646. Maximum Length of Pair Chain (M)
 	657. Robot Return to Origin (E)
-	659. Split Array into Consecutive Subsequences (M) *
+	659. Split Array into Consecutive Subsequences (M) * -> 맞음!
 	409. Longest Palindrome (E)
 	628. Maximum Product of Three Numbers (E)
 	821. Shortest Distance to a Character (E) *
 	441. Arranging Coins (E)
-	252. Meeting Rooms (E)
-	253. Meeting Rooms II (M) *
+	252. Meeting Rooms (E) -> 2
+	253. Meeting Rooms II (M) * -> 맞음!
 	157. Read N Characters Given Read4 (E)
 	159. Longest Substring with At Most Two Distinct Characters (H)
 	161. One Edit Distance (M)
@@ -190,8 +190,8 @@ E: Easy, M: Medium, H: Hard
 	624. Maximum Distance in Arrays (E)
 	643. Maximum Average Subarray I (E)
 	408. Valid Word Abbreviation (E)
-	422. Valid Word Square (E) *
-	487. Max Consecutive Ones II (M) *
+	422. Valid Word Square (E) * -> 다시풀기 *
+	487. Max Consecutive Ones II (M) * -> 다시풀기 *
 	1004. Max Consecutive Ones III (M)
 	800. Similar RGB Color (E)
 	760. Find Anagram Mappings (E)
@@ -234,7 +234,7 @@ E: Easy, M: Medium, H: Hard
 	340. Longest Substring with At Most K Distinct Characters (H)
 	498. Diagonal Traverse (M)
 	873. Length of Longest Fibonacci Subsequence (M)
-	995. Minimum Number of K Consecutive Bit Flips (H) *
+	995. Minimum Number of K Consecutive Bit Flips (H) * -> 다시풀기 *
 	493. Reverse Pairs (H)
 	976. Largest Perimeter Triangle (E)
 	915. Partition Array into Disjoint Intervals (M) * index 정확하게 짜기 연습
@@ -274,6 +274,15 @@ E: Easy, M: Medium, H: Hard
 	759. Employee Free Time (H)
 	953. Verifying an Alien Dictionary (E)
 	1046. Last Stone Weight (E)
+	680. Valid Palindrome II (E)
+	774. Minimize Max Distance to Gas Station (H) 
+	758. Bold Words in String (E)
+	698. Partition to K Equal Sum Subsets (M) *
+	727. Minimum Window Subsequence (H)
+	981. Time Based Key-Value Store (M)
+	942. DI String Match (E)
+	849. Maximize Distance to Closest Person (E)
+	544. Output Contest Matches (M) *
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -320,7 +329,7 @@ E: Easy, M: Medium, H: Hard
     622. Design Circular Queue (M)
 	901. Online Stock Span (M)
 	828. Unique Letter String (H)
-	484. Find Permutation (M) *
+	484. Find Permutation (M) * -> 다시풀기 *
 	716. Max Stack (E)
 	353. Design Snake Game (M)
 	346. Moving Average from Data Stream (E)
@@ -392,13 +401,13 @@ E: Easy, M: Medium, H: Hard
 	654. Maximum Binary Tree (M)
 	998. Maximum Binary Tree II (M)
 	449. Serialize and Deserialize BST (M)
-	99. Recover Binary Search Tree (H) *
-	662. Maximum Width of Binary Tree (M) *
+	99. Recover Binary Search Tree (H) * -> 맞음!
+	662. Maximum Width of Binary Tree (M) * -> 맞음!
 	250. Count Univalue Subtrees (M)
 	270. Closest Binary Search Tree Value (E)
 	272. Closest Binary Search Tree Value II (H)
 	776. Split BST (M)
-	663. Equal Tree Partition (M) *
+	663. Equal Tree Partition (M) * -> 맞음!
 	366. Find Leaves of Binary Tree (M)
 	285. Inorder Successor in BST (M) *
 	297. Serialize and Deserialize Binary Tree (M) *
@@ -417,6 +426,8 @@ E: Easy, M: Medium, H: Hard
 	536. Construct Binary Tree from String (M)
 	298. Binary Tree Longest Consecutive Sequence (M)
 	426. Convert Binary Search Tree to Sorted Doubly Linked List (M)
+	545. Boundary of Binary Tree (M)
+	938. Range Sum of BST (E)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -455,6 +466,7 @@ E: Easy, M: Medium, H: Hard
 	342. Power of Four (E)
 	836. Rectangle Overlap (E)
 	400. Nth Digit (E) *
+	660. Remove 9 (H) *
 	
 ## Dynamic Programming
 	53. Maximum Subarray (E) -> 2
@@ -489,7 +501,7 @@ E: Easy, M: Medium, H: Hard
 	303. Range Sum Query - Immutable (E)
 	304. Range Sum Query 2D - Immutable (M) * -> 맞음
 	375. Guess Number Higher or Lower II (M) *
-	377. Combination Sum IV (M)
+	377. Combination Sum IV (M) -> 다시풀기 *
 	413. Arithmetic Slices (M)
 	368. Largest Divisible Subset (M) * -> 다시풀기 *
 	486. Predict the Winner (M)
@@ -518,6 +530,7 @@ E: Easy, M: Medium, H: Hard
 	115. Distinct Subsequences (H)
 	312. Burst Balloons (H) *
 	562. Longest Line of Consecutive One in Matrix (M) *
+	1048. Longest String Chain (M)
 	
 ## Graph
 	733. Flood Fill (E)
@@ -571,3 +584,4 @@ E: Easy, M: Medium, H: Hard
 	329. Longest Increasing Path in a Matrix (H)
 	444. Sequence Reconstruction (M)
 	980. Unique Paths III (H)
+	489. Robot Room Cleaner (H) *
