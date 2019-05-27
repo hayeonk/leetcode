@@ -157,7 +157,7 @@ E: Easy, M: Medium, H: Hard
 	659. Split Array into Consecutive Subsequences (M) * -> 맞음!
 	409. Longest Palindrome (E)
 	628. Maximum Product of Three Numbers (E)
-	821. Shortest Distance to a Character (E) *
+	821. Shortest Distance to a Character (E) * -> 맞음!
 	441. Arranging Coins (E)
 	252. Meeting Rooms (E) -> 2
 	253. Meeting Rooms II (M) * -> 맞음!
@@ -203,15 +203,15 @@ E: Easy, M: Medium, H: Hard
 	929. Unique Email Addresses (E)
 	415. Add Strings (E) *
 	66. Plus One (E)
-	76. Minimum Window Substring (H) *
-	135. Candy (H) *
+	76. Minimum Window Substring (H) * -> 다시풀기 *
+	135. Candy (H) * -> 맞음!
 	154. Find Minimum in Rotated Sorted Array II (H) *
 	361. Bomb Enemy (M)
 	616. Add Bold Tag in String (M)
 	146. LRU Cache (H) *
-	316. Remove Duplicate Letters (H) *
-	336. Palindrome Pairs (H) *
-	315. Count of Smaller Numbers After Self (H) *
+	316. Remove Duplicate Letters (H) * -> 다시풀기 *
+	336. Palindrome Pairs (H) * -> 다시풀기 *
+	315. Count of Smaller Numbers After Self (H) * -> 애매하게 틀림
 	844. Backspace String Compare (E)
 	833. Find And Replace in String (M)
 	941. Valid Mountain Array (E)
@@ -283,6 +283,13 @@ E: Easy, M: Medium, H: Hard
 	942. DI String Match (E)
 	849. Maximize Distance to Closest Person (E)
 	544. Output Contest Matches (M) *
+	750. Number Of Corner Rectangles (M)
+	911. Online Election (M)
+	900. RLE Iterator (M)
+	852. Peak Index in a Mountain Array (E)
+	846. Hand of Straights (M)
+	840. Magic Squares In Grid (E)
+	683. K Empty Slots (H)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -409,13 +416,13 @@ E: Easy, M: Medium, H: Hard
 	776. Split BST (M)
 	663. Equal Tree Partition (M) * -> 맞음!
 	366. Find Leaves of Binary Tree (M)
-	285. Inorder Successor in BST (M) *
+	285. Inorder Successor in BST (M) * -> 맞음!
 	297. Serialize and Deserialize Binary Tree (M) *
 	1028. Recover a Tree From Preorder Traversal (H)
-	652. Find Duplicate Subtrees (M) *
+	652. Find Duplicate Subtrees (M) * 
 	255. Verify Preorder Sequence in Binary Search Tree (M) *
 	687. Longest Univalue Path (E)
-	510. Inorder Successor in BST II (M) *
+	510. Inorder Successor in BST II (M) * -> 맞음!
 	965. Univalued Binary Tree (E)
 	333. Largest BST Subtree (M)
 	872. Leaf-Similar Trees (E)
@@ -428,6 +435,7 @@ E: Easy, M: Medium, H: Hard
 	426. Convert Binary Search Tree to Sorted Doubly Linked List (M)
 	545. Boundary of Binary Tree (M)
 	938. Range Sum of BST (E)
+	894. All Possible Full Binary Trees (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -502,7 +510,7 @@ E: Easy, M: Medium, H: Hard
 	304. Range Sum Query 2D - Immutable (M) * -> 맞음
 	375. Guess Number Higher or Lower II (M) *
 	377. Combination Sum IV (M) -> 다시풀기 *
-	413. Arithmetic Slices (M)
+	413. Arithmetic Slices (M) -> 2
 	368. Largest Divisible Subset (M) * -> 다시풀기 *
 	486. Predict the Winner (M)
 	474. Ones and Zeroes (M) * -> 다시풀기 *
@@ -549,7 +557,7 @@ E: Easy, M: Medium, H: Hard
 	463. Island Perimeter (E)
 	695. Max Area of Island (M)
 	399. Evaluate Division (M)
-	547. Friend Circles (M) *
+	547. Friend Circles (M) * -> 맞음!
 	947. Most Stones Removed with Same Row or Column (M)
 	990. Satisfiability of Equality Equations (M) *
 	648. Replace Words (M)
