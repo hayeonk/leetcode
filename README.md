@@ -163,7 +163,7 @@ E: Easy, M: Medium, H: Hard
 	253. Meeting Rooms II (M) * -> 맞음!
 	157. Read N Characters Given Read4 (E)
 	159. Longest Substring with At Most Two Distinct Characters (H)
-	161. One Edit Distance (M)
+	161. One Edit Distance (M) -> 2
 	163. Missing Ranges (M)
 	170. Two Sum III - Data structure design (E)
 	186. Reverse Words in a String II (M)
@@ -224,7 +224,7 @@ E: Easy, M: Medium, H: Hard
 	320. Generalized Abbreviation (M)
 	288. Unique Word Abbreviation (M)
 	665. Non-decreasing Array (E)
-	792. Number of Matching Subsequences (M) *
+	792. Number of Matching Subsequences (M) * -> 다시풀기 *
 	848. Shifting Letters (M)
 	973. K Closest Points to Origin (M)
 	877. Stone Game (M)
@@ -290,6 +290,13 @@ E: Easy, M: Medium, H: Hard
 	846. Hand of Straights (M)
 	840. Magic Squares In Grid (E)
 	683. K Empty Slots (H)
+	1052. Grumpy Bookstore Owner (M)
+	723. Candy Crush (M)
+	922. Sort Array By Parity II (E)
+	531. Lonely Pixel I (M)
+	533. Lonely Pixel II (M)
+	548. Split Array with Equal Sum (M) *
+	609. Find Duplicate File in System (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -419,8 +426,8 @@ E: Easy, M: Medium, H: Hard
 	285. Inorder Successor in BST (M) * -> 맞음!
 	297. Serialize and Deserialize Binary Tree (M) *
 	1028. Recover a Tree From Preorder Traversal (H)
-	652. Find Duplicate Subtrees (M) * 
-	255. Verify Preorder Sequence in Binary Search Tree (M) *
+	652. Find Duplicate Subtrees (M) * -> 다시풀기 *
+	255. Verify Preorder Sequence in Binary Search Tree (M) * -> 다시풀기 *
 	687. Longest Univalue Path (E)
 	510. Inorder Successor in BST II (M) * -> 맞음!
 	965. Univalued Binary Tree (E)
@@ -506,8 +513,8 @@ E: Easy, M: Medium, H: Hard
 	279. Perfect Squares (M) -> 2
 	140. Word Break II (H)
 	264. Ugly Number II (M) * -> 맞음!
-	303. Range Sum Query - Immutable (E)
-	304. Range Sum Query 2D - Immutable (M) * -> 맞음
+	303. Range Sum Query - Immutable (E) -> 2
+	304. Range Sum Query 2D - Immutable (M) * -> 맞음! -> 맞음!
 	375. Guess Number Higher or Lower II (M) *
 	377. Combination Sum IV (M) -> 다시풀기 *
 	413. Arithmetic Slices (M) -> 2
@@ -517,11 +524,11 @@ E: Easy, M: Medium, H: Hard
 	516. Longest Palindromic Subsequence (M) * -> 다시풀기 *
 	44. Wildcard Matching (H)
 	740. Delete and Earn (M)
-	354. Russian Doll Envelopes (H) *
+	354. Russian Doll Envelopes (H) * -> 다시풀기 *
 	673. Number of Longest Increasing Subsequence (M) * -> 다시풀기 *
 	10. Regular Expression Matching (H) *
 	583. Delete Operation for Two Strings (M)
-	72. Edit Distance (H) *
+	72. Edit Distance (H) * -> 다시풀기 *
 	97. Interleaving String (H)
 	714. Best Time to Buy and Sell Stock with Transaction Fee (M) *
 	85. Maximal Rectangle (H) *
@@ -559,32 +566,32 @@ E: Easy, M: Medium, H: Hard
 	399. Evaluate Division (M)
 	547. Friend Circles (M) * -> 맞음!
 	947. Most Stones Removed with Same Row or Column (M)
-	990. Satisfiability of Equality Equations (M) *
+	990. Satisfiability of Equality Equations (M) * -> 맞음!
 	648. Replace Words (M)
-	208. Implement Trie (Prefix Tree) (M) *
+	208. Implement Trie (Prefix Tree) (M) * -> 맞음!
 	211. Add and Search Word - Data structure design (M)
-	684. Redundant Connection (M) *
+	684. Redundant Connection (M) * -> 맞음!
 	576. Out of Boundary Paths (M)
 	332. Reconstruct Itinerary (M) *
-	787. Cheapest Flights Within K Stops (M) *
+	787. Cheapest Flights Within K Stops (M) * -> 다시풀기 *
 	863. All Nodes Distance K in Binary Tree (M)
 	997. Find the Town Judge (E)
-	802. Find Eventual Safe States (M) *
+	802. Find Eventual Safe States (M) * -> 다시풀기 *
 	841. Keys and Rooms (M)
 	133. Clone Graph (M)
-	269. Alien Dictionary (H) *
+	269. Alien Dictionary (H) * -> 다시풀기 *
 	277. Find the Celebrity (M)
 	286. Walls and Gates (M)
 	737. Sentence Similarity II (M)
 	694. Number of Distinct Islands (M)
-	490. The Maze (M)
-	505. The Maze II (M) *
+	490. The Maze (M) -> 2
+	505. The Maze II (M) * -> 다시풀기 *
 	323. Number of Connected Components in an Undirected Graph (M)
-	305. Number of Islands II (H) *
+	305. Number of Islands II (H) * -> 애매하게 맞음
 	261. Graph Valid Tree (M)
 	721. Accounts Merge (M)
 	815. Bus Routes (H)
-	677. Map Sum Pairs (M) *
+	677. Map Sum Pairs (M) * -> 맞음!
 	212. Word Search II (H) *
 	924. Minimize Malware Spread (H)
 	317. Shortest Distance from All Buildings (H)
@@ -593,3 +600,4 @@ E: Easy, M: Medium, H: Hard
 	444. Sequence Reconstruction (M)
 	980. Unique Paths III (H)
 	489. Robot Room Cleaner (H) *
+	753. Cracking the Safe (H) *
