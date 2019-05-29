@@ -3,37 +3,37 @@ E: Easy, M: Medium, H: Hard
 
 ## Array and String
     217. Contains Duplicate (E)
-    48. Rotate Image (M)
+    48. Rotate Image (M) -> 2
     73. Set Matrix Zeroes (M)
     1. Two Sum (E)
     167. Two Sum II - Input array is sorted (E)
-    653. Two Sum IV - Input is a BST (E)
+    653. Two Sum IV - Input is a BST (E) -> 2
     26. Remove Duplicates from Sorted Array (E)
     27. Remove Element (E)
     31. Next Permutation (M) * -> index 주의, 부등호 하나 틀림
     33. Search in Rotated Sorted Array (M) * -> 부등호 주의, 부등호 하나 틀림
     34. Find First and Last Position of Element in Sorted Array (M)
     35. Search Insert Position (E)
-    39. Combination Sum (M) -> 맞음!
-    40. Combination Sum II (M) * -> backtracking에 넘겨주는 idx랑 i랑 헷갈리지 말기
-    11. Container With Most Water (M) * -> 또틀림, 다시풀기 *
-    46. Permutations (M) -> 맞음!
-    47. Permutations II (M) * -> 맞음!
+    39. Combination Sum (M) -> 맞음! -> 맞음!
+    40. Combination Sum II (M) * -> backtracking에 넘겨주는 idx랑 i랑 헷갈리지 말기 -> 맞음!
+    11. Container With Most Water (M) * -> 또틀림, 다시풀기 * -> 맞음!
+    46. Permutations (M) -> 맞음! -> 맞음!
+    47. Permutations II (M) * -> 맞음! -> 맞음!
     56. Merge Intervals (M)
     58. Length of Last Word (E)
     60. Permutation Sequence (M)
-    74. Search a 2D Matrix (M)
-    77. Combinations (M)
-    78. Subsets (M)
-    90. Subsets II (M) * -> 실수 ㅠ
+    74. Search a 2D Matrix (M) -> 2
+    77. Combinations (M) -> 2
+    78. Subsets (M) -> 2
+    90. Subsets II (M) * -> 실수 ㅠ -> 맞음!
     75. Sort Colors (M)
 	55. Jump Game (M)
 	45. Jump Game II (H)
-	169. Majority Element (E) * -> 실수 ㅠ
-	17. Letter Combinations of a Phone Number (M)
+	169. Majority Element (E) * -> 실수 ㅠ -> 맞음!
+	17. Letter Combinations of a Phone Number (M) -> 2
 	14. Longest Common Prefix (E)
 	12. Integer to Roman (M)
-	15. 3Sum (M) * -> 또틀림, 다시풀기 *
+	15. 3Sum (M) * -> 또틀림, 다시풀기 * -> 맞음!
 	16. 3Sum Closest (M) -> 맞음!
 	18. 4Sum (M)
 	28. Implement strStr() (E) -> string 공부하면서 다시 풀기
@@ -46,35 +46,35 @@ E: Easy, M: Medium, H: Hard
 	350. Intersection of Two Arrays II (E)
 	88. Merge Sorted Array (E)
 	242. Valid Anagram (E)
-	49. Group Anagrams (M)
+	49. Group Anagrams (M) -> 2
 	704. Binary Search (E)
 	119. Pascal's Triangle II (E)
-	713. Subarray Product Less Than K (M)
+	713. Subarray Product Less Than K (M) -> 2
 	438. Find All Anagrams in a String (E)
 	125. Valid Palindrome (E)
-	127. Word Ladder (M) * -> 다시풀기 *
+	127. Word Ladder (M) * -> 다시풀기 * -> 맞음!
 	153. Find Minimum in Rotated Sorted Array (M)
 	273. Integer to English Words (H)
-	457. Circular Array Loop (M)
+	457. Circular Array Loop (M) -> 2
 	605. Can Place Flowers (E)
 	134. Gas Station (M) * -> 다시풀기 *
-	216. Combination Sum III (M)
-	697. Degree of an Array (E) * -> 다시풀기 *
-	525. Contiguous Array (M) * -> 다시풀기 *
+	216. Combination Sum III (M) -> 2
+	697. Degree of an Array (E) * -> 다시풀기 * -> 맞음!
+	525. Contiguous Array (M) * -> 다시풀기 * -> 맞음!
 	220. Contains Duplicate III (M) * -> 다시풀기 *
 	122. Best Time to Buy and Sell Stock II (E) * -> 맞음!
 	448. Find All Numbers Disappeared in an Array (E)
 	287. Find the Duplicate Number (M)
 	771. Jewels and Stones (E)
-	215. Kth Largest Element in an Array (M) * -> 맞음!
+	215. Kth Largest Element in an Array (M) * -> 맞음! -> 다시풀기 *
 	3. Longest Substring Without Repeating Characters (M)
 	283. Move Zeroes (E)
-	238. Product of Array Except Self (M)
+	238. Product of Array Except Self (M) -> 2
 	406. Queue Reconstruction by Height (M)
-	240. Search a 2D Matrix II (M)
+	240. Search a 2D Matrix II (M) -> 2
 	581. Shortest Unsorted Continuous Subarray (E) * -> 다시풀기 *
 	560. Subarray Sum Equals K (M)
-	621. Task Scheduler (M) * -> 맞음!
+	621. Task Scheduler (M) * -> 맞음! -> 예쁘게 짜기
 	347. Top K Frequent Elements (M)
 	791. Custom Sort String (M)
 	162. Find Peak Element (M)
@@ -86,14 +86,14 @@ E: Easy, M: Medium, H: Hard
 	395. Longest Substring with At Least K Repeating Characters (M)
 	179. Largest Number (M)
 	373. Find K Pairs with Smallest Sums (M)
-	378. Kth Smallest Element in a Sorted Matrix (M) *
-	131. Palindrome Partitioning (M)
-	132. Palindrome Partitioning II (H)
+	378. Kth Smallest Element in a Sorted Matrix (M) * -> 애매하게 맞음
+	131. Palindrome Partitioning (M) -> 2
+	132. Palindrome Partitioning II (H) -> 다시풀기 *
 	392. Is Subsequence (M)
 	376. Wiggle Subsequence (M)
 	402. Remove K Digits (M)
 	738. Monotone Increasing Digits (M)
-	435. Non-overlapping Intervals (M) * -> 맞음!
+	435. Non-overlapping Intervals (M) * -> 맞음! -> 맞음!
 	452. Minimum Number of Arrows to Burst Balloons (M)
 	526. Beautiful Arrangement (M)
 	374. Guess Number Higher or Lower (E)
@@ -122,7 +122,7 @@ E: Easy, M: Medium, H: Hard
 	766. Toeplitz Matrix (E)
 	884. Uncommon Words from Two Sentences (E)
 	394. Decode String (M) ** -> 다시풀기 *
-	128. Longest Consecutive Sequence (H) * -> 다시풀기 *
+	128. Longest Consecutive Sequence (H) * -> 다시풀기 * -> 맞음!
 	318. Maximum Product of Word Lengths (M)
 	925. Long Pressed Name (E)
 	962. Maximum Width Ramp (M)
@@ -197,7 +197,7 @@ E: Easy, M: Medium, H: Hard
 	760. Find Anagram Mappings (E)
 	734. Sentence Similarity (E)
 	702. Search in a Sorted Array of Unknown Size (M)
-	259. 3Sum Smaller (M)
+	259. 3Sum Smaller (M) -> 2
 	832. Flipping an Image (E)
 	345. Reverse Vowels of a String (E)
 	929. Unique Email Addresses (E)
@@ -297,6 +297,9 @@ E: Easy, M: Medium, H: Hard
 	533. Lonely Pixel II (M)
 	548. Split Array with Equal Sum (M) *
 	609. Find Duplicate File in System (M)
+	908. Smallest Range I (E)
+	910. Smallest Range II (M) *
+	454. 4Sum II (M)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -333,7 +336,7 @@ E: Easy, M: Medium, H: Hard
 	921. Minimum Add to Make Parentheses Valid (M)
 	227. Basic Calculator II (M) * -> 사소한 실수지만 다시풀기 *
 	150. Evaluate Reverse Polish Notation (M)
-	341. Flatten Nested List Iterator (M) *
+	341. Flatten Nested List Iterator (M) * -> 맞음!
 	496. Next Greater Element I (E)
 	503. Next Greater Element II (M)
 	84. Largest Rectangle in Histogram (H) * -> 한번만 더풀자ㅠ
@@ -359,30 +362,30 @@ E: Easy, M: Medium, H: Hard
     102. Binary Tree Level Order Traversal (M)
     110. Balanced Binary Tree (E)
     98. Validate Binary Search Tree (M)
-    207. Course Schedule (M) -> 맞음!
-    210. Course Schedule II (M) * -> 맞음!
-    235. Lowest Common Ancestor of a Binary Search Tree (E)
-    236. Lowest Common Ancestor of a Binary Tree (M) * -> 다시풀기 *
+    207. Course Schedule (M) -> 맞음! -> 맞음!
+    210. Course Schedule II (M) * -> 맞음! -> 맞음!
+    235. Lowest Common Ancestor of a Binary Search Tree (E) -> 2
+    236. Lowest Common Ancestor of a Binary Tree (M) * -> 다시풀기 * -> 맞음!
     572. Subtree of Another Tree (E)
-    112. Path Sum (E)
-    113. Path Sum II (M) -> 맞음!
-    437. Path Sum III (E) * -> 다시풀기 *
-    94. Binary Tree Inorder Traversal (M) * (iterative) -> 맞음!
-    144. Binary Tree Preorder Traversal (M) * (iterative) -> 맞음!
+    112. Path Sum (E) -> 2
+    113. Path Sum II (M) -> 맞음! -> 맞음!
+    437. Path Sum III (E) * -> 다시풀기 * -> 다시풀기 *
+    94. Binary Tree Inorder Traversal (M) * (iterative) -> 맞음! -> 맞음!
+    144. Binary Tree Preorder Traversal (M) * (iterative) -> 맞음! -> 맞음!
     100. Same Tree (E)
     101. Symmetric Tree (E)
     96. Unique Binary Search Trees (M)
     95. Unique Binary Search Trees II (M)
 	116. Populating Next Right Pointers in Each Node (M) * (iterative)
 	117. Populating Next Right Pointers in Each Node II (M) * (iterative)
-	701. Insert into a Binary Search Tree (M)
+	701. Insert into a Binary Search Tree (M) -> 2
 	700. Search in a Binary Search Tree (E)
 	669. Trim a Binary Search Tree (E)
 	1008. Construct Binary Search Tree from Preorder Traversal (M)
 	129. Sum Root to Leaf Numbers (M)
 	111. Minimum Depth of Binary Tree (E)
 	105. Construct Binary Tree from Preorder and Inorder Traversal (M)
-	538. Convert BST to Greater Tree (E) * -> 다시풀기 *
+	538. Convert BST to Greater Tree (E) * -> 다시풀기 * -> 맞음!
 	543. Diameter of Binary Tree (E)
 	114. Flatten Binary Tree to Linked List (M)
 	337. House Robber III (M)
@@ -438,11 +441,12 @@ E: Easy, M: Medium, H: Hard
 	968. Binary Tree Cameras (H) *
 	606. Construct String from Binary Tree (E)
 	536. Construct Binary Tree from String (M)
-	298. Binary Tree Longest Consecutive Sequence (M)
+	298. Binary Tree Longest Consecutive Sequence (M) -> 2
 	426. Convert Binary Search Tree to Sorted Doubly Linked List (M)
 	545. Boundary of Binary Tree (M)
 	938. Range Sum of BST (E)
 	894. All Possible Full Binary Trees (M)
+	549. Binary Tree Longest Consecutive Sequence II (M) *
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -516,7 +520,7 @@ E: Easy, M: Medium, H: Hard
 	303. Range Sum Query - Immutable (E) -> 2
 	304. Range Sum Query 2D - Immutable (M) * -> 맞음! -> 맞음!
 	375. Guess Number Higher or Lower II (M) *
-	377. Combination Sum IV (M) -> 다시풀기 *
+	377. Combination Sum IV (M) -> 다시풀기 * -> 다시풀기 *
 	413. Arithmetic Slices (M) -> 2
 	368. Largest Divisible Subset (M) * -> 다시풀기 *
 	486. Predict the Winner (M)
