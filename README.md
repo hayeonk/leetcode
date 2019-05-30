@@ -134,7 +134,7 @@ E: Easy, M: Medium, H: Hard
 	424. Longest Repeating Character Replacement (M)
 	13. Roman to Integer (E)
 	720. Longest Word in Dictionary (E)
-	820. Short Encoding of Words (M) * -> 풀긴 했는데 너무 비효율적, 다시풀기 *
+	820. Short Encoding of Words (M) * -> 풀긴 했는데 너무 비효율적, 다시풀기 * -> 맞음!
 	524. Longest Word in Dictionary through Deleting (M)
 	860. Lemonade Change (E)
 	36. Valid Sudoku (M)
@@ -173,14 +173,14 @@ E: Easy, M: Medium, H: Hard
 	246. Strobogrammatic Number (E)
 	247. Strobogrammatic Number II (M)
 	249. Group Shifted Strings (M)
-	254. Factor Combinations (M)
-	266. Palindrome Permutation (E)
-	267. Palindrome Permutation II (M)
-	281. Zigzag Iterator (M)
+	254. Factor Combinations (M) -> 애매
+	266. Palindrome Permutation (E) -> 2
+	267. Palindrome Permutation II (M) -> 2
+	281. Zigzag Iterator (M) -> 2
 	293. Flip Game (E)
 	294. Flip Game II (M)
 	280. Wiggle Sort (M)
-	325. Maximum Size Subarray Sum Equals k (M)
+	325. Maximum Size Subarray Sum Equals k (M) -> 애매
 	339. Nested List Weight Sum (E)
 	356. Line Reflection (M)
 	359. Logger Rate Limiter (E)
@@ -190,8 +190,8 @@ E: Easy, M: Medium, H: Hard
 	624. Maximum Distance in Arrays (E)
 	643. Maximum Average Subarray I (E)
 	408. Valid Word Abbreviation (E)
-	422. Valid Word Square (E) * -> 다시풀기 *
-	487. Max Consecutive Ones II (M) * -> 다시풀기 *
+	422. Valid Word Square (E) * -> 다시풀기 * -> 애매
+	487. Max Consecutive Ones II (M) * -> 다시풀기 * -> 그만풀자
 	1004. Max Consecutive Ones III (M)
 	800. Similar RGB Color (E)
 	760. Find Anagram Mappings (E)
@@ -201,14 +201,14 @@ E: Easy, M: Medium, H: Hard
 	832. Flipping an Image (E)
 	345. Reverse Vowels of a String (E)
 	929. Unique Email Addresses (E)
-	415. Add Strings (E) *
+	415. Add Strings (E) * -> 봄
 	66. Plus One (E)
 	76. Minimum Window Substring (H) * -> 다시풀기 *
-	135. Candy (H) * -> 맞음!
+	135. Candy (H) * -> 맞음! -> 맞음!
 	154. Find Minimum in Rotated Sorted Array II (H) *
 	361. Bomb Enemy (M)
 	616. Add Bold Tag in String (M)
-	146. LRU Cache (H) *
+	146. LRU Cache (H) * -> 애매
 	316. Remove Duplicate Letters (H) * -> 다시풀기 *
 	336. Palindrome Pairs (H) * -> 다시풀기 *
 	315. Count of Smaller Numbers After Self (H) * -> 애매하게 틀림
@@ -254,7 +254,7 @@ E: Easy, M: Medium, H: Hard
 	974. Subarray Sums Divisible by K (M)
 	855. Exam Room (M)
 	299. Bulls and Cows (M)
-	857. Minimum Cost to Hire K Workers (H) *
+	857. Minimum Cost to Hire K Workers (H) * -> 다시풀기 *
 	1011. Capacity To Ship Packages Within D Days (M)
 	826. Most Profit Assigning Work (M)
 	632. Smallest Range (H)
@@ -265,7 +265,7 @@ E: Easy, M: Medium, H: Hard
 	475. Heaters (E)
 	459. Repeated Substring Pattern (E)
 	301. Remove Invalid Parentheses (H)
-	1031. Maximum Sum of Two Non-Overlapping Subarrays (M) *
+	1031. Maximum Sum of Two Non-Overlapping Subarrays (M) * -> 애매
 	218. The Skyline Problem (H) *
 	862. Shortest Subarray with Sum at Least K (H) *
 	904. Fruit Into Baskets (M)
@@ -309,20 +309,20 @@ E: Easy, M: Medium, H: Hard
     445. Add Two Numbers II (M)
     234. Palindrome Linked List (E)
     160. Intersection of Two Linked Lists (E)
-    141. Linked List Cycle (E)
+    141. Linked List Cycle (E) -> 2
     142. Linked List Cycle II (M)
     24. Swap Nodes in Pairs (M)
     21. Merge Two Sorted Lists (E)
     61. Rotate List (M)
-    206. Reverse Linked List (E) * -> 다시풀기 *
-    92. Reverse Linked List II (M)
-	148. Sort List (M)
+    206. Reverse Linked List (E) * -> 다시풀기 * -> 그만풀자
+    92. Reverse Linked List II (M) -> 2
+	148. Sort List (M) -> 2
 	328. Odd Even Linked List (M)
-	143. Reorder List (M) * -> 애매하게 틀림
+	143. Reorder List (M) * -> 애매하게 틀림 -> 봄
 	203. Remove Linked List Elements (E)
 	23. Merge k Sorted Lists (H)
 	725. Split Linked List in Parts (M)
-	25. Reverse Nodes in k-Group (H) *
+	25. Reverse Nodes in k-Group (H) * -> ㅠㅠ
 	1019. Next Greater Node In Linked List (M)
 	369. Plus One Linked List (M)
 	708. Insert into a Cyclic Sorted List (M) *
@@ -333,20 +333,20 @@ E: Easy, M: Medium, H: Hard
     155. Min Stack (E)
     232. Implement Queue using Stacks (E)
 	20. Valid Parentheses (E)
-	921. Minimum Add to Make Parentheses Valid (M)
+	921. Minimum Add to Make Parentheses Valid (M) -> 2
 	227. Basic Calculator II (M) * -> 사소한 실수지만 다시풀기 *
 	150. Evaluate Reverse Polish Notation (M)
 	341. Flatten Nested List Iterator (M) * -> 맞음!
 	496. Next Greater Element I (E)
 	503. Next Greater Element II (M)
-	84. Largest Rectangle in Histogram (H) * -> 한번만 더풀자ㅠ
-	907. Sum of Subarray Minimums (M) ** -> 다시풀기 **
+	84. Largest Rectangle in Histogram (H) * -> 한번만 더풀자ㅠ -> 됐다
+	907. Sum of Subarray Minimums (M) ** -> 다시풀기 ** -> 다시풀기 *
 	224. Basic Calculator (H) * -> 다시풀기 **
-	32. Longest Valid Parentheses (H) * -> 다시풀기 *
+	32. Longest Valid Parentheses (H) * -> 다시풀기 * -> 다시풀기 *
     622. Design Circular Queue (M)
 	901. Online Stock Span (M)
 	828. Unique Letter String (H)
-	484. Find Permutation (M) * -> 다시풀기 *
+	484. Find Permutation (M) * -> 다시풀기 * -> 그만풀자
 	716. Max Stack (E)
 	353. Design Snake Game (M)
 	346. Moving Average from Data Stream (E)
@@ -355,6 +355,7 @@ E: Easy, M: Medium, H: Hard
 	895. Maximum Frequency Stack (H)
 	856. Score of Parentheses (M) *
 	456. 132 Pattern (M) *
+	946. Validate Stack Sequences (M)
 	
 ## Tree
     108. Convert Sorted Array to Binary Search Tree (E)
@@ -376,8 +377,8 @@ E: Easy, M: Medium, H: Hard
     101. Symmetric Tree (E)
     96. Unique Binary Search Trees (M)
     95. Unique Binary Search Trees II (M)
-	116. Populating Next Right Pointers in Each Node (M) * (iterative)
-	117. Populating Next Right Pointers in Each Node II (M) * (iterative)
+	116. Populating Next Right Pointers in Each Node (M) * (iterative) -> 맞음!
+	117. Populating Next Right Pointers in Each Node II (M) * (iterative) -> 맞음!
 	701. Insert into a Binary Search Tree (M) -> 2
 	700. Search in a Binary Search Tree (E)
 	669. Trim a Binary Search Tree (E)
@@ -396,21 +397,21 @@ E: Easy, M: Medium, H: Hard
 	230. Kth Smallest Element in a BST (M)
 	199. Binary Tree Right Side View (M)
 	257. Binary Tree Paths (E)
-	124. Binary Tree Maximum Path Sum (H) ** -> 다시풀기 *
-	310. Minimum Height Trees (M) * -> 다시풀기 *
+	124. Binary Tree Maximum Path Sum (H) ** -> 다시풀기 * -> 맞음!
+	310. Minimum Height Trees (M) * -> 다시풀기 * -> 애매
 	515. Find Largest Value in Each Tree Row (M)
 	429. N-ary Tree Level Order Traversal (E)
 	993. Cousins in Binary Tree (E)
 	173. Binary Search Tree Iterator (M)
-	222. Count Complete Tree Nodes (M) * -> 다시풀기 *
+	222. Count Complete Tree Nodes (M) * -> 다시풀기 * -> 다시풀기 *
 	513. Find Bottom Left Tree Value (M)
 	107. Binary Tree Level Order Traversal II (E)
-	145. Binary Tree Postorder Traversal (H) * (iterative) -> 맞음!
+	145. Binary Tree Postorder Traversal (H) * (iterative) -> 맞음! -> 맞음!
 	307. Range Sum Query - Mutable (M) **
 	404. Sum of Left Leaves (E)
 	106. Construct Binary Tree from Inorder and Postorder Traversal (M)
 	865. Smallest Subtree with all the Deepest Nodes (M)
-	450. Delete Node in a BST (M) * -> 맞음!
+	450. Delete Node in a BST (M) * -> 맞음! -> 맞음!
 	637. Average of Levels in Binary Tree (E)
 	589. N-ary Tree Preorder Traversal (E)
 	590. N-ary Tree Postorder Traversal (E)
@@ -418,16 +419,16 @@ E: Easy, M: Medium, H: Hard
 	654. Maximum Binary Tree (M)
 	998. Maximum Binary Tree II (M)
 	449. Serialize and Deserialize BST (M)
-	99. Recover Binary Search Tree (H) * -> 맞음!
+	99. Recover Binary Search Tree (H) * -> 맞음! -> 맞음!
 	662. Maximum Width of Binary Tree (M) * -> 맞음!
 	250. Count Univalue Subtrees (M)
 	270. Closest Binary Search Tree Value (E)
 	272. Closest Binary Search Tree Value II (H)
-	776. Split BST (M)
+	776. Split BST (M) -> 2
 	663. Equal Tree Partition (M) * -> 맞음!
 	366. Find Leaves of Binary Tree (M)
 	285. Inorder Successor in BST (M) * -> 맞음!
-	297. Serialize and Deserialize Binary Tree (M) *
+	297. Serialize and Deserialize Binary Tree (M) * -> 다시보기 *
 	1028. Recover a Tree From Preorder Traversal (H)
 	652. Find Duplicate Subtrees (M) * -> 다시풀기 *
 	255. Verify Preorder Sequence in Binary Search Tree (M) * -> 다시풀기 *
@@ -447,6 +448,7 @@ E: Easy, M: Medium, H: Hard
 	938. Range Sum of BST (E)
 	894. All Possible Full Binary Trees (M)
 	549. Binary Tree Longest Consecutive Sequence II (M) *
+	889. Construct Binary Tree from Preorder and Postorder Traversal (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
@@ -496,7 +498,7 @@ E: Easy, M: Medium, H: Hard
 	746. Min Cost Climbing Stairs (E) -> 사소하게 틀림
 	5. Longest Palindromic Substring (M) * -> 실수 ㅠ
 	22. Generate Parentheses (M) -> 2
-	322. Coin Change (M) * -> 사소하게 틀림 -> 사소하게 틀림
+	322. Coin Change (M) * -> 사소하게 틀림 -> 사소하게 틀림 -> 맞음!
 	51. N-Queens (H) * -> 맞음
 	52. N-Queens II (H) -> 2
 	300. Longest Increasing Subsequence (M) -> 2
