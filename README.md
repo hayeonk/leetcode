@@ -121,7 +121,7 @@ E: Easy, M: Medium, H: Hard
 	709. To Lower Case (E)
 	766. Toeplitz Matrix (E)
 	884. Uncommon Words from Two Sentences (E)
-	394. Decode String (M) ** -> 다시풀기 *
+	394. Decode String (M) ** -> 다시풀기 * -> 맞음!
 	128. Longest Consecutive Sequence (H) * -> 다시풀기 * -> 맞음!
 	318. Maximum Product of Word Lengths (M)
 	925. Long Pressed Name (E)
@@ -266,7 +266,7 @@ E: Easy, M: Medium, H: Hard
 	459. Repeated Substring Pattern (E)
 	301. Remove Invalid Parentheses (H)
 	1031. Maximum Sum of Two Non-Overlapping Subarrays (M) * -> 애매
-	218. The Skyline Problem (H) *
+	218. The Skyline Problem (H) * -> ㅠㅠ
 	862. Shortest Subarray with Sum at Least K (H) *
 	904. Fruit Into Baskets (M)
 	811. Subdomain Visit Count (E)
@@ -300,6 +300,8 @@ E: Easy, M: Medium, H: Hard
 	908. Smallest Range I (E)
 	910. Smallest Range II (M) *
 	454. 4Sum II (M)
+	282. Expression Add Operators (H) *
+	4. Median of Two Sorted Arrays (H) *
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -312,7 +314,7 @@ E: Easy, M: Medium, H: Hard
     141. Linked List Cycle (E) -> 2
     142. Linked List Cycle II (M)
     24. Swap Nodes in Pairs (M)
-    21. Merge Two Sorted Lists (E)
+    21. Merge Two Sorted Lists (E) -> 2
     61. Rotate List (M)
     206. Reverse Linked List (E) * -> 다시풀기 * -> 그만풀자
     92. Reverse Linked List II (M) -> 2
@@ -320,7 +322,7 @@ E: Easy, M: Medium, H: Hard
 	328. Odd Even Linked List (M)
 	143. Reorder List (M) * -> 애매하게 틀림 -> 봄
 	203. Remove Linked List Elements (E)
-	23. Merge k Sorted Lists (H)
+	23. Merge k Sorted Lists (H) -> 애매
 	725. Split Linked List in Parts (M)
 	25. Reverse Nodes in k-Group (H) * -> ㅠㅠ
 	1019. Next Greater Node In Linked List (M)
@@ -430,15 +432,15 @@ E: Easy, M: Medium, H: Hard
 	285. Inorder Successor in BST (M) * -> 맞음!
 	297. Serialize and Deserialize Binary Tree (M) * -> 다시보기 *
 	1028. Recover a Tree From Preorder Traversal (H)
-	652. Find Duplicate Subtrees (M) * -> 다시풀기 *
-	255. Verify Preorder Sequence in Binary Search Tree (M) * -> 다시풀기 *
+	652. Find Duplicate Subtrees (M) * -> 다시풀기 * -> 맞음!
+	255. Verify Preorder Sequence in Binary Search Tree (M) * -> 다시풀기 * -> 맞음!
 	687. Longest Univalue Path (E)
 	510. Inorder Successor in BST II (M) * -> 맞음!
 	965. Univalued Binary Tree (E)
 	333. Largest BST Subtree (M)
 	872. Leaf-Similar Trees (E)
 	623. Add One Row to Tree (M)
-	979. Distribute Coins in Binary Tree (M) *
+	979. Distribute Coins in Binary Tree (M) * -> 맞음!
 	968. Binary Tree Cameras (H) *
 	606. Construct String from Binary Tree (E)
 	536. Construct Binary Tree from String (M)
@@ -462,12 +464,12 @@ E: Easy, M: Medium, H: Hard
 	260. Single Number III (M) ** -> 와 이런 실수를 하다니ㅠㅠ..
 	190. Reverse Bits (E)
 	67. Add Binary (E)
-	29. Divide Two Integers (M) * -> 다시풀기 *
+	29. Divide Two Integers (M) * -> 다시풀기 * -> 봄
 	172. Factorial Trailing Zeroes (E)
 	1006. Clumsy Factorial (M)
 	338. Counting Bits (M)
 	204. Count Primes (E)
-	166. Fraction to Recurring Decimal (M) * -> edge case 잘 생각하기 ㅠ
+	166. Fraction to Recurring Decimal (M) * -> edge case 잘 생각하기 ㅠ -> 봄
 	202. Happy Number (E)
 	50. Pow(x, n) (E)
 	326. Power of Three (E)
@@ -506,15 +508,15 @@ E: Easy, M: Medium, H: Hard
 	120. Triangle (M) -> 2
 	121. Best Time to Buy and Sell Stock (E) -> 2
 	139. Word Break (M) * -> 맞음!
-	152. Maximum Product Subarray (M) * -> 사소하게 틀림
+	152. Maximum Product Subarray (M) * -> 사소하게 틀림 -> 사소하게 틀림
 	198. House Robber (E)
 	213. House Robber II (M) * -> 애매하게 맞음
 	464. Can I Win (M)
 	518. Coin Change 2 (M) ** -> 맞음!
-	309. Best Time to Buy and Sell Stock with Cooldown (M) ** -> 맞음!
+	309. Best Time to Buy and Sell Stock with Cooldown (M) ** -> 맞음! -> 맞음!
 	221. Maximal Square (M) -> 사소하게 틀림
 	647. Palindromic Substrings (M) -> 2
-	416. Partition Equal Subset Sum (M) -> 다시풀기 *
+	416. Partition Equal Subset Sum (M) -> 다시풀기 * -> 맞음!
 	494. Target Sum (M) -> 다시풀기 *
 	279. Perfect Squares (M) -> 2
 	140. Word Break II (H)
@@ -527,17 +529,17 @@ E: Easy, M: Medium, H: Hard
 	368. Largest Divisible Subset (M) * -> 다시풀기 *
 	486. Predict the Winner (M)
 	474. Ones and Zeroes (M) * -> 다시풀기 *
-	516. Longest Palindromic Subsequence (M) * -> 다시풀기 *
+	516. Longest Palindromic Subsequence (M) * -> 다시풀기 * -> 맞음!
 	44. Wildcard Matching (H)
 	740. Delete and Earn (M)
 	354. Russian Doll Envelopes (H) * -> 다시풀기 *
 	673. Number of Longest Increasing Subsequence (M) * -> 다시풀기 *
-	10. Regular Expression Matching (H) *
+	10. Regular Expression Matching (H) * -> 다시풀기 *
 	583. Delete Operation for Two Strings (M)
 	72. Edit Distance (H) * -> 다시풀기 *
 	97. Interleaving String (H)
-	714. Best Time to Buy and Sell Stock with Transaction Fee (M) *
-	85. Maximal Rectangle (H) *
+	714. Best Time to Buy and Sell Stock with Transaction Fee (M) * -> 맞음!
+	85. Maximal Rectangle (H) * -> 맞음!
 	523. Continuous Subarray Sum (M)
 	718. Maximum Length of Repeated Subarray (M)
 	801. Minimum Swaps To Make Sequences Increasing (M) * -> 다시풀기 *
@@ -552,11 +554,12 @@ E: Easy, M: Medium, H: Hard
 	312. Burst Balloons (H) *
 	562. Longest Line of Consecutive One in Matrix (M) *
 	1048. Longest String Chain (M)
+	123. Best Time to Buy and Sell Stock III (H) *
 	
 ## Graph
 	733. Flood Fill (E)
 	130. Surrounded Regions (M)
-	200. Number of Islands (M)
+	200. Number of Islands (M) -> 2
 	79. Word Search (M)
 	417. Pacific Atlantic Water Flow (M)
 	473. Matchsticks to Square (M)
@@ -607,3 +610,5 @@ E: Easy, M: Medium, H: Hard
 	980. Unique Paths III (H)
 	489. Robot Room Cleaner (H) *
 	753. Cracking the Safe (H) *
+	465. Optimal Account Balancing (H) *
+	886. Possible Bipartition (M) *
