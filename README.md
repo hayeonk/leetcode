@@ -302,6 +302,8 @@ E: Easy, M: Medium, H: Hard
 	454. 4Sum II (M)
 	282. Expression Add Operators (H) *
 	4. Median of Two Sorted Arrays (H) *
+	528. Random Pick with Weight (M) *
+	291. Word Pattern II (H)
 	
 ## Linked List
     19. Remove Nth Node From End of List (M)
@@ -451,6 +453,7 @@ E: Easy, M: Medium, H: Hard
 	894. All Possible Full Binary Trees (M)
 	549. Binary Tree Longest Consecutive Sequence II (M) *
 	889. Construct Binary Tree from Preorder and Postorder Traversal (M)
+	742. Closest Leaf in a Binary Tree (M)
 	
 ## Math and Bit Manipulation
 	136. Single Number (E)
